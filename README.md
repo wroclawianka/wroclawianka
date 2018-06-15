@@ -1,12 +1,18 @@
-# List of my Projects
+<h1 align="center">List of my Projects</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
+   Dorota Zelga, <a href="https://github.com/wroclawianka">wroclawianka</a>
+</p>
 
 ## About me
 Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the Czech Republic. I am learning myself JavaScript, TypeScript, Angular and other frontend related topics. I am working in IT since 2014, still, right now I would like to focus my coding skills. 
 
+
+
 ## Portfolio
 To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) with my favorite projects described.
 
-Below I listed my [GitHub](https://github.com/wroclawianka) projects, grouped by categories:
+Below I listed my GitHub projects, grouped by categories:
 
 ## Angular
 - **loan-ratings-app**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repository](https://github.com/wroclawianka/loan-ratings-app)
