@@ -15,6 +15,11 @@ To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl
 Below I listed my GitHub projects, grouped by categories:
 
 ## Angular
+
+- **Prague with my eyes/blog2.0**: [page](http://blog.dorotazelga.aspnet.pl/), [repository](https://github.com/unrealdst/BlogApi/tree/master/Blog2.0/blog2.0)
+   - Description: project of simple lifestyle and travel blog
+   - Technologies: Angular 5, TypeScript, CSS Grid
+   
 - **loan-ratings-app**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repository](https://github.com/wroclawianka/loan-ratings-app)
    - Description: web application calculating an average amount for loans available on the marketplace of a given rating
    - Technologies: Angular 5, TypeScript, CSS Grid, CORS
