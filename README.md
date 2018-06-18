@@ -10,7 +10,7 @@ Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the C
 
 
 ## Portfolio
-To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) with my favorite projects described.
+To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) [(repository)](https://github.com/wroclawianka/portfolio) with my favorite projects described.
 
 Below I listed my GitHub projects, grouped by categories:
 
