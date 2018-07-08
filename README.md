@@ -7,7 +7,18 @@
 ## About me
 Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the Czech Republic. I am learning myself JavaScript, TypeScript, Angular and other frontend related topics. I am working in IT since 2014, still, right now I would like to focus my coding skills. 
 
+## My main technologies
 
+  <div align="center">
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_5.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/typescript.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ES6.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/jQuery.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/sass.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Bootstrap.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
+      <img height="100px" hspace="5" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
+   </div>
 
 ## Portfolio
 To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) [(repository)](https://github.com/wroclawianka/portfolio) with my favorite projects described.
