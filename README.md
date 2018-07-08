@@ -39,7 +39,7 @@ Below I listed my GitHub projects, grouped by categories:
    - *In progress*
    
    <div align="center">
-      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/cookbook.png"/>
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/cookbook.png"/>
    </div>
   
 - **angular-learning-udemy**:  [page](https://wroclawianka.github.io/angular-learning-udemy/), [repository](https://github.com/wroclawianka/angular-learning-udemy)
@@ -48,7 +48,7 @@ Below I listed my GitHub projects, grouped by categories:
    - *In progress*
    
    <div align="center">
-      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-udemy.png"/>
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-udemy.png"/>
    </div>
    
 - **angular-learning-routing**:  [page](https://wroclawianka.github.io/angular-learning-routing/), [repository](https://github.com/wroclawianka/angular-learning-routing)
@@ -62,7 +62,7 @@ Below I listed my GitHub projects, grouped by categories:
    - Date: Dec 2017
    
    <div align="center">
-      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-heroes-tutorial.png"/>
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-heroes-tutorial.png"/>
    </div>
 
 ## Workshop pages
