@@ -72,8 +72,8 @@ Below I listed my GitHub projects, grouped by categories:
    - Date: May 2018
    
    <div align="center">
-      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
-        <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
+      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
+        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
    </div>
    
 - **car-service-webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repository](https://github.com/wroclawianka/car-service-webpage)
@@ -82,8 +82,8 @@ Below I listed my GitHub projects, grouped by categories:
    - Date: Feb 2018
    
       <div align="center">
-      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
-        <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
+      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
+        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
    </div>
 
 ## A bit of math
