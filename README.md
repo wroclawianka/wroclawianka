@@ -15,30 +15,55 @@ To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl
 Below I listed my GitHub projects, grouped by categories:
 
 ## Angular
+ - **loan-ratings-app**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repository](https://github.com/wroclawianka/loan-ratings-app)
+   - Description: web application calculating an average amount for loans available on the marketplace of a given rating
+   - Technologies: Angular 5, TypeScript, CSS Grid, CORS
+   - Date: May 2018
+   
+   <div align="center">
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/loan-ratings-app.png"/>
+   </div>
+   
+ - **Prague with my eyes/blog2.0**: [page](http://blog.dorotazelga.aspnet.pl/), [repository](https://github.com/unrealdst/BlogApi/tree/master/Blog2.0/blog2.0)
+   - Description: project of simple lifestyle and travel blog
+   - Technologies: Angular 5, TypeScript, CSS Grid
+   - Date: Mar 2018
+   
+   <div align="center">
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
+   </div>
+
 - **cookbook**: [page](https://wroclawianka.github.io/cookbook/), [repository](https://github.com/wroclawianka/cookbook)
    - Description: the final project of course: Udemy, Angular 5 - The Complete Guide
    - Technologies: Angular 5, TypeScript
    - *In progress*
+   
+   <div align="center">
+      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/cookbook.png"/>
+   </div>
   
 - **angular-learning-udemy**:  [page](https://wroclawianka.github.io/angular-learning-udemy/), [repository](https://github.com/wroclawianka/angular-learning-udemy)
    - Description: course assignments: Udemy, Angular 5 - The Complete Guide
    - Technologies: Angular 5, TypeScript
    - *In progress*
    
- - **loan-ratings-app**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repository](https://github.com/wroclawianka/loan-ratings-app)
-   - Description: web application calculating an average amount for loans available on the marketplace of a given rating
-   - Technologies: Angular 5, TypeScript, CSS Grid, CORS
-   - Date: May 2018
+   <div align="center">
+      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-udemy.png"/>
+   </div>
    
- - **Prague with my eyes/blog2.0**: [page](http://blog.dorotazelga.aspnet.pl/), [repository](https://github.com/unrealdst/BlogApi/tree/master/Blog2.0/blog2.0)
-   - Description: project of simple lifestyle and travel blog
-   - Technologies: Angular 5, TypeScript, CSS Grid
-   - Date: Mar 2018
-
+- **angular-learning-routing**:  [page](https://wroclawianka.github.io/angular-learning-routing/), [repository](https://github.com/wroclawianka/angular-learning-routing)
+   - Description: routing part of the course: Udemy, Angular 5 - The Complete Guide
+   - Technologies: Angular 5, TypeScript
+   - *In progress*
+   
 - **angular2.0_heroes-tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repository](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
    - Description: heroes tutorial from official Angular site done by myself due to self-learning purposes
    - Technologies: Angular 5, TypeScript
    - Date: Dec 2017
+   
+   <div align="center">
+      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-heroes-tutorial.png"/>
+   </div>
 
 ## Workshop pages
 - **workshop-modern**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [GitHub Pages](https://wroclawianka.github.io/workshop-modern/), [repository](https://github.com/wroclawianka/workshop-modern)
@@ -46,10 +71,20 @@ Below I listed my GitHub projects, grouped by categories:
    - Technologies: jQuery, SCSS, CSS Grid, Google Maps Embeded
    - Date: May 2018
    
+   <div align="center">
+      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
+        <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
+   </div>
+   
 - **car-service-webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repository](https://github.com/wroclawianka/car-service-webpage)
    - Description: webpage of an unexisting service company. My first try of the topic 
    - Technologies: jQuery, CSS Grid, Google Maps Embeded
    - Date: Feb 2018
+   
+      <div align="center">
+      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
+        <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
+   </div>
 
 ## A bit of math
 - **sorting-algorithms**: [repository](https://github.com/wroclawianka/sorting-algorithms)
@@ -61,6 +96,10 @@ Below I listed my GitHub projects, grouped by categories:
    - Description: a simple project of the binary calculator with validation of the fields
    - Technologies: JavaScript, jQuery, Bootstrap
    - Date: Jun 2018
+   
+   <div align="center">
+      <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/binary-calculator_1.png"/>
+   </div>
    
 ##  Front-end learning
 - **css-tricks** : [repository](https://github.com/wroclawianka/css-tricks)
