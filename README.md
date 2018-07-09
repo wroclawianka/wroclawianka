@@ -1,6 +1,6 @@
 <h1 align="center">List of my Projects</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
+  <img width="200px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
    Dorota Zelga, <a href="https://github.com/wroclawianka">wroclawianka</a>
 </p>
 
@@ -21,7 +21,7 @@ Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the C
    </div>
 
 ## Portfolio
-To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) [(repository)](https://github.com/wroclawianka/portfolio) with my favorite projects described.
+To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repository](https://github.com/wroclawianka/portfolio)) with my favorite projects described.
 
 Below I listed my GitHub projects, grouped by categories:
 
@@ -45,8 +45,8 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
 
 - **cookbook**: [page](https://wroclawianka.github.io/cookbook/), [repository](https://github.com/wroclawianka/cookbook)
-   - Description: the final project of course: Udemy, Angular 5 - The Complete Guide
-   - Technologies: Angular 5, TypeScript
+   - Description: the final project of course: Udemy, Angular 6 - The Complete Guide
+   - Technologies: Angular 6, TypeScript
    - *In progress*
    
    <div align="center">
@@ -54,8 +54,8 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
   
 - **angular-learning-udemy**:  [page](https://wroclawianka.github.io/angular-learning-udemy/), [repository](https://github.com/wroclawianka/angular-learning-udemy)
-   - Description: course assignments: Udemy, Angular 5 - The Complete Guide
-   - Technologies: Angular 5, TypeScript
+   - Description: course assignments: Udemy, Angular 6 - The Complete Guide
+   - Technologies: Angular 6, TypeScript
    - *In progress*
    
    <div align="center">
@@ -63,8 +63,8 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
 - **angular-learning-routing**:  [page](https://wroclawianka.github.io/angular-learning-routing/), [repository](https://github.com/wroclawianka/angular-learning-routing)
-   - Description: routing part of the course: Udemy, Angular 5 - The Complete Guide
-   - Technologies: Angular 5, TypeScript
+   - Description: routing part of the course: Udemy, Angular 6 - The Complete Guide
+   - Technologies: Angular 6, TypeScript
    - *In progress*
    
 - **angular2.0_heroes-tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repository](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
