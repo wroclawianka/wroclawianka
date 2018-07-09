@@ -4,6 +4,18 @@
    Dorota Zelga, <a href="https://github.com/wroclawianka">wroclawianka</a>
 </p>
 
+## Table of Contents
+  - [About me](#about-me)
+  - [My main technologies](#my-main-technologies)
+  - [Portfolio](#portfolio)
+  - Projects:
+    - [Angular projects](#angular)
+    - [Workshop pages](#workshop-pages)
+    - [A bit of math](#a-bit-of-math)
+    - [Front-end learning](#front-end-learning)
+    - [QA recuitment assigments](#qa-recuitment-assigments)
+  - [Learning materials](#learning-materials)
+
 ## About me
 Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the Czech Republic. I am learning myself JavaScript, TypeScript, Angular and other frontend related topics. I am working in IT since 2014, still, right now I would like to focus my coding skills. 
 
@@ -145,13 +157,13 @@ Below I listed my GitHub projects, grouped by categories:
   - Date: Mar 2017
   
 ## Learning materials
-Courses I took, books and blogs I read
+Courses I took, books and blogs I read:
 
-### Angular
+### Angular materials
   - Angular 6 with Maximilian Schwarzmüller, [Udemy - Angular 6 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
  - Angular blogs, such as [ANGULAR.LOVE](http://www.angular.love)
 
-### JavaScript, including ECMAScript 6 & jQuery
+### JavaScript, ECMAScript 6 & jQuery
   - Vanilla JavaScript with [JavaScript 30](https://javascript30.com/), by Wes Bos
   - [ECMAScript for Everyone](https://es6.io/), by Wes Bos
   - [JavaScript and jQuery](http://javascriptbook.com/): Interactive Front-End Web Development 1st Edition, by Jon Duckett
@@ -162,7 +174,7 @@ Courses I took, books and blogs I read
   - [CSS Grid](https://cssgrid.io/), by Wes Bos
   - [Flexbox](https://flexbox.io/), by Wes Bos
 
-  ## Codeacademy
+## Codeacademy
   - finished courses: HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
 
 - and more...
