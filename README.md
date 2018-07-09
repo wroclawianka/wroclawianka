@@ -143,3 +143,26 @@ Below I listed my GitHub projects, grouped by categories:
   - Description: QA automation testing google form 
   - Technologies: Java, Selenium
   - Date: Mar 2017
+  
+## Learning materials
+Courses I took, books and blogs I read
+
+### Angular
+  - Angular 6 with Maximilian Schwarzmüller, [Udemy - Angular 6 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
+ - Angular blogs, such as [ANGULAR.LOVE](http://www.angular.love)
+
+### JavaScript, including ECMAScript 6 & jQuery
+  - Vanilla JavaScript with [JavaScript 30](https://javascript30.com/), by Wes Bos
+  - [ECMAScript for Everyone](https://es6.io/), by Wes Bos
+  - [JavaScript and jQuery](http://javascriptbook.com/): Interactive Front-End Web Development 1st Edition, by Jon Duckett
+  - [JavaScript Absolute Beginner's Guide](http://www.informit.com/store/javascript-absolute-beginners-guide-9780789758064), by Kirupa Chinnathambi and [Kirupa blog](https://www.kirupa.com/)
+  - [JavaScript. Ćwiczenia praktyczne](https://helion.pl/ksiazki/javascript-cwiczenia-praktyczne-wydanie-iii-marcin-lis,cwjas3.htm#format/e). Wydanie III (PL), by Marcin Lis
+
+## Bit of CSS 
+  - [CSS Grid](https://cssgrid.io/), by Wes Bos
+  - [Flexbox](https://flexbox.io/), by Wes Bos
+
+  ## Codeacademy
+  - finished courses: HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
+
+- and more...
