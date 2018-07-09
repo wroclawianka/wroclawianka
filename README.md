@@ -1,4 +1,4 @@
-<h1 align="center">List of my Projects</h1>
+<h1 align="center">List of my projects</h1>
 <p align="center">
   <img width="200px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
    Dorota Zelga, <a href="https://github.com/wroclawianka">wroclawianka</a>
@@ -175,6 +175,6 @@ Courses I took, books and blogs I read:
   - [Flexbox](https://flexbox.io/), by Wes Bos
 
 ## Codeacademy
-  - finished courses: HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
+  - HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
 
 - and more...
