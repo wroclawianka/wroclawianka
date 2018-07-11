@@ -77,7 +77,7 @@ Below I listed my GitHub projects, grouped by categories:
 - **angular-learning-routing**:  [page](https://wroclawianka.github.io/angular-learning-routing/), [repository](https://github.com/wroclawianka/angular-learning-routing)
    - Description: routing part of the course: Udemy, Angular 6 - The Complete Guide
    - Technologies: Angular 6, TypeScript
-   - *In progress*
+   - Date: July 2018
    
 - **angular2.0_heroes-tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repository](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
    - Description: heroes tutorial from official Angular site done by myself due to self-learning purposes
