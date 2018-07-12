@@ -79,6 +79,11 @@ Below I listed my GitHub projects, grouped by categories:
    - Technologies: Angular 6, TypeScript
    - Date: July 2018
    
+   <div align="center">
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-routing_1.png"/>
+   </div>
+   
+   
 - **angular2.0_heroes-tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repository](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
    - Description: heroes tutorial from official Angular site done by myself due to self-learning purposes
    - Technologies: Angular 5, TypeScript
