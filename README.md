@@ -1,7 +1,6 @@
 <h1 align="center">List of my projects</h1>
 <p align="center">
-  <img width="200px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
-   Dorota Zelga, <a href="https://github.com/wroclawianka">wroclawianka</a>
+  <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
 </p>
 
 ## Table of Contents
