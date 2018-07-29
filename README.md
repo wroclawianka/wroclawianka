@@ -9,6 +9,7 @@
   - [My main technologies](#my-main-technologies)
   - [Portfolio](#portfolio)
   - Projects:
+    - [React projects](#react)
     - [Angular projects](#angular)
     - [Workshop pages](#workshop-pages)
     - [A bit of math](#a-bit-of-math)
@@ -37,6 +38,17 @@ To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl
 
 Below I listed my GitHub projects, grouped by categories:
 
+## React
+ - **Ordering Assignment**: [repository](https://github.com/wroclawianka/ordering-assignment)
+    - Description: Simple ReactJS ordering app, which includes all details of your order. You may add additional product to the list, change the quantity or remove the product. When you place an order you can see confirmation of the order.
+   - Technologies: React, JavaScript (ES6)
+   - Date: July 2018
+   
+- **Book List Assignment**: [repository](https://github.com/wroclawianka/book-list-assignment)
+    - Description: Simple ReactJS application with a list of books. The application includes a list of books, book details and a possibility to add new book to the list.
+   - Technologies: React, JavaScript (ES6)
+   - Date: July 2018
+   
 ## Angular
  - **loan-ratings-app**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repository](https://github.com/wroclawianka/loan-ratings-app)
    - Description: web application calculating an average amount for loans available on the marketplace of a given rating
