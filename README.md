@@ -35,7 +35,7 @@ Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the C
    </p>
 
 ## Portfolio
-To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repository](https://github.com/wroclawianka/portfolio)) with my favorite projects described.
+To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio)) with my favorite projects described.
 
 Below I listed my GitHub projects, grouped by categories:
 
@@ -125,7 +125,7 @@ Below I listed my GitHub projects, grouped by categories:
         <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
    </div>
    
-- **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage)
+- **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage) 
    - Description: webpage of an unexisting service company. My first try of the topic 
    - Technologies: jQuery, CSS Grid, Google Maps Embeded
    - Date: Feb 2018
@@ -151,17 +151,17 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
 ##  Front-end learning
-- **CSS tricks** : [repo](https://github.com/wroclawianka/css-tricks)
+- **CSS tricks**: [repo](https://github.com/wroclawianka/css-tricks)
    - Description: repository for learning CSS related topics
    - Technologies: CSS Grid, Flexbox
    - Date: May 2018
    
-- **ES6 Learning** [repo](https://github.com/wroclawianka/ES6-learning)
+- **ES6 Learning**: [repo](https://github.com/wroclawianka/ES6-learning)
    - Description: repository to learn ECMAScript 6 with Wes Bos
    - Technologies: JavaScript (ECMAScript6)
    - Date: Jan 2018
    
-- **JavaScript Learning** : [repo](https://github.com/wroclawianka/javaScript-learning)
+- **JavaScript Learning**: [repo](https://github.com/wroclawianka/javaScript-learning)
    - Description: repository to learn basics of JavaScript
    - Technologies: JavaScript
    - Date: Oct 2018
