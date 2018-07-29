@@ -13,7 +13,7 @@
     - [Workshop pages](#workshop-pages)
     - [A bit of math](#a-bit-of-math)
     - [Front-end learning](#front-end-learning)
-    - [QA recuitment assigments](#qa-recuitment-assigments)
+    - [QA recruitment assignments](#qa-recuitment-assigments)
   - [Learning materials](#learning-materials)
 
 ## About me
@@ -21,17 +21,18 @@ Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the C
 
 ## My main technologies
 
-  <div align="center">
+  <p align="center">
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_5.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/typescript.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ES6.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/jQuery.png"/>
+  </br>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/sass.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Bootstrap.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
-   </div>
+   </p>
 
 ## Portfolio
 To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repository](https://github.com/wroclawianka/portfolio)) with my favorite projects described.
@@ -165,7 +166,7 @@ Below I listed my GitHub projects, grouped by categories:
    - Technologies: JavaScript
    - Date: Oct 2018
 
-## QA recuitment assigments
+## QA recruitment assignments
 - **phonebook-application**: [repository](https://github.com/wroclawianka/phonebook-application)
   - Description: define, implement and test a simple application for a phonebook
   - Technologies: Java
