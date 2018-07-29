@@ -41,7 +41,7 @@ Below I listed my GitHub projects, grouped by categories:
 
 ## React
  - **Ordering Assignment**: [repo](https://github.com/wroclawianka/ordering-assignment)
-    - Description: simple ordering app, which includes all details of your order.
+    - Description: simple ordering app, which includes all details of your order
    - Technologies: React, JavaScript (ES6)
    - Date: July 2018
    
@@ -50,7 +50,7 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
 - **Book List Assignment**: [repo](https://github.com/wroclawianka/book-list-assignment)
-    - Description: simple application with a list of books.
+    - Description: simple application with a list of books
    - Technologies: React, JavaScript (ES6)
    - Date: July 2018
    
@@ -60,7 +60,7 @@ Below I listed my GitHub projects, grouped by categories:
    
 ## Angular
  - **Loan Ratings App**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repo](https://github.com/wroclawianka/loan-ratings-app)
-   - Description: web app calculating an average amount for loans available on the marketplace of a given rating
+   - Description: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
    - Technologies: Angular 5, TypeScript, CSS Grid, CORS
    - Date: May 2018
    
@@ -69,7 +69,7 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
  - **Prague with my eyes - blog template**: [page](http://blog.dorotazelga.aspnet.pl/), [repo](https://github.com/unrealdst/BlogApi/tree/master/Blog2.0/blog2.0)
-   - Description: project of simple lifestyle and travel blog
+   - Description: project of simple lifestyle and travel blog written by scratch
    - Technologies: Angular 5, TypeScript, CSS Grid
    - Date: Mar 2018
    
@@ -105,7 +105,7 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
    
-- **angular2.0_heroes-tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repo](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
+- **Heroes Tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repo](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
    - Description: heroes tutorial from official Angular site done by myself due to self-learning purposes
    - Technologies: Angular 5, TypeScript
    - Date: Dec 2017
@@ -115,7 +115,7 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
 
 ## Workshop pages
-- **workshop-modern**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [GitHub Pages](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
+- **Modern Workshop Page**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [GitHub Pages](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
    - Description: modern and responsive page for a workshop company
    - Technologies: jQuery, SCSS, CSS Grid, Google Maps Embeded
    - Date: May 2018
@@ -125,7 +125,7 @@ Below I listed my GitHub projects, grouped by categories:
         <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
    </div>
    
-- **car-service-webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage)
+- **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage)
    - Description: webpage of an unexisting service company. My first try of the topic 
    - Technologies: jQuery, CSS Grid, Google Maps Embeded
    - Date: Feb 2018
@@ -136,12 +136,12 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
 
 ## A bit of math
-- **sorting-algorithms**: [repo](https://github.com/wroclawianka/sorting-algorithms)
+- **Sorting Algorithms**: [repo](https://github.com/wroclawianka/sorting-algorithms)
    - Description: visualization of sorting algorithms
    - Technologies: Angular 5, TypeScript, SCSS
    - *In progress*
 
-- **binary-calculator**: [page](https://wroclawianka.github.io/binary-calculator/), [repo](https://github.com/wroclawianka/binary-calculator)
+- **Binary Calculator**: [page](https://wroclawianka.github.io/binary-calculator/), [repo](https://github.com/wroclawianka/binary-calculator)
    - Description: a simple project of the binary calculator with validation of the fields
    - Technologies: JavaScript, jQuery, Bootstrap
    - Date: Jun 2018
@@ -151,33 +151,33 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
 ##  Front-end learning
-- **css-tricks** : [repo](https://github.com/wroclawianka/css-tricks)
+- **CSS tricks** : [repo](https://github.com/wroclawianka/css-tricks)
    - Description: repository for learning CSS related topics
    - Technologies: CSS Grid, Flexbox
    - Date: May 2018
    
-- **ES6-learning** [repo](https://github.com/wroclawianka/ES6-learning)
+- **ES6 Learning** [repo](https://github.com/wroclawianka/ES6-learning)
    - Description: repository to learn ECMAScript 6 with Wes Bos
    - Technologies: JavaScript (ECMAScript6)
    - Date: Jan 2018
    
-- **javaScript-learning** : [repo](https://github.com/wroclawianka/javaScript-learning)
+- **JavaScript Learning** : [repo](https://github.com/wroclawianka/javaScript-learning)
    - Description: repository to learn basics of JavaScript
    - Technologies: JavaScript
    - Date: Oct 2018
 
 ## QA recruitment assignments
-- **phonebook-application**: [repo](https://github.com/wroclawianka/phonebook-application)
+- **Phonebook Application**: [repo](https://github.com/wroclawianka/phonebook-application)
   - Description: define, implement and test a simple application for a phonebook
   - Technologies: Java
   - Date: Mar 2017
 
-- **eshop-tests**: [repo](https://github.com/wroclawianka/eshop-tests)
+- **E-shop Test**: [repo](https://github.com/wroclawianka/eshop-tests)
   - Description: create a web acceptance test for one of the internet markets covering the described scenario
   - Technologies: Java, Selenium
   - Date: Mar 2017
 
-- **google-forms-test**: [repo](https://github.com/wroclawianka/google-forms-test)
+- **Google Forms Test**: [repo](https://github.com/wroclawianka/google-forms-test)
   - Description: QA automation testing google form 
   - Technologies: Java, Selenium
   - Date: Mar 2017
