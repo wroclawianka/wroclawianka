@@ -43,10 +43,18 @@ Below I listed my GitHub projects, grouped by categories:
    - Technologies: React, JavaScript (ES6)
    - Date: July 2018
    
+   <div align="center">
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ordering-assignment.png"/>
+   </div>
+   
 - **Book List Assignment**: [repository](https://github.com/wroclawianka/book-list-assignment)
     - Description: Simple ReactJS application with a list of books. The application includes a list of books, book details and a possibility to add new book to the list.
    - Technologies: React, JavaScript (ES6)
    - Date: July 2018
+   
+   <div align="center">
+      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/book-list-app.png"/>
+   </div>
    
 ## Angular
  - **loan-ratings-app**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repository](https://github.com/wroclawianka/loan-ratings-app)
