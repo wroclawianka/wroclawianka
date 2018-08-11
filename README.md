@@ -3,21 +3,8 @@
   <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
 </p>
 
-## Table of Contents
-  - [About me](#about-me)
-  - [My main technologies](#my-main-technologies)
-  - [Portfolio](#portfolio)
-  - Projects:
-    - [React projects](#react)
-    - [Angular projects](#angular)
-    - [Workshop pages](#workshop-pages)
-    - [A bit of math](#a-bit-of-math)
-    - [Front-end learning](#front-end-learning)
-    - [QA recruitment assignments](#qa-recruitment-assignments)
-  - [Learning materials](#learning-materials)
-
 ## About me
-Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the Czech Republic. I am learning myself JavaScript, TypeScript, Angular and other frontend related topics. I am working in IT since 2014, still, right now I would like to focus my coding skills. 
+Hi! I am Dorota. I am originally from Poland, but I am living in the Prague Czech Republic. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular and similar technologies which you can check below. 
 
 ## My main technologies
 
@@ -33,11 +20,31 @@ Hi! I am Dorota. I am originally from Poland, but I am living in Prague in the C
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
    </p>
-
+  
 ## Portfolio
 To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio)) with my favorite projects described.
 
 Below I listed my GitHub projects, grouped by categories:
+
+## Projects
+  - [Commercial](#commercial-projects) 
+  - [React](#react)
+  - [Angular](#angular)
+  - [A bit of math](#a-bit-of-math)
+  - [Front-end learning](#front-end-learning)
+  - [QA recruitment assignments](#qa-recruitment-assignments)
+  - [Learning materials](#learning-materials)
+
+## Commercial projects
+- **Panowie z warsztatu**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [repo](https://github.com/wroclawianka/workshop-modern)
+   - Description: modern and responsive page for a workshop company
+   - Technologies: jQuery, SCSS, CSS Grid, Google Maps Embeded
+   - Date: May 2018
+   
+   <div align="center">
+      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
+        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
+   </div>
 
 ## React
  - **Ordering Assignment**: [repo](https://github.com/wroclawianka/ordering-assignment)
@@ -114,27 +121,6 @@ Below I listed my GitHub projects, grouped by categories:
       <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-heroes-tutorial.png"/>
    </div>
 
-## Workshop pages
-- **Modern Workshop Page**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [GitHub Pages](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
-   - Description: modern and responsive page for a workshop company
-   - Technologies: jQuery, SCSS, CSS Grid, Google Maps Embeded
-   - Date: May 2018
-   
-   <div align="center">
-      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
-        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
-   </div>
-   
-- **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage) 
-   - Description: webpage of an unexisting service company. My first try of the topic 
-   - Technologies: jQuery, CSS Grid, Google Maps Embeded
-   - Date: Feb 2018
-   
-      <div align="center">
-      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
-        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
-   </div>
-
 ## A bit of math
 - **Sorting Algorithms**: [repo](https://github.com/wroclawianka/sorting-algorithms)
    - Description: visualization of sorting algorithms
@@ -151,6 +137,16 @@ Below I listed my GitHub projects, grouped by categories:
    </div>
    
 ##  Front-end learning
+- **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage) 
+   - Description: webpage of an unexisting service company. My first try of the topic 
+   - Technologies: jQuery, CSS Grid, Google Maps Embeded
+   - Date: Feb 2018
+   
+      <div align="center">
+      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
+        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
+   </div>
+   
 - **CSS tricks**: [repo](https://github.com/wroclawianka/css-tricks)
    - Description: repository for learning CSS related topics
    - Technologies: CSS Grid, Flexbox
