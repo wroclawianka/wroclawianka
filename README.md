@@ -4,7 +4,7 @@
 </p>
 
 ## About me
-Hi! I am Dorota. I am originally from Poland, but I am living in the Prague, Czech Republic. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular and similar technologies which you can check below. 
+Hi! I am Dorota. I am originally from Poland, but I am living in the Prague, Czech Republic. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular and related technologies which you can check below. 
 
 ## My main technologies
 
