@@ -198,4 +198,4 @@ Courses I took, books and blogs I read:
 ## Codeacademy
   - HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
 
-- and more... like playing [CodingGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)!
+- and more... like playing [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)!
