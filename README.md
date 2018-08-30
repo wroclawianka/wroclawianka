@@ -180,6 +180,9 @@ Below I listed my GitHub projects, grouped by categories:
 ## Learning materials
 Courses I took, books and blogs I read:
 
+### React materials
+  - [React for Beginners](https://reactforbeginners.com/), by Wes Bos
+
 ### Angular materials
   - Angular 6 with Maximilian Schwarzmüller, [Udemy - Angular 6 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
  - Angular blogs, such as [ANGULAR.LOVE](http://www.angular.love)
