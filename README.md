@@ -29,8 +29,6 @@ Below I listed my GitHub projects, grouped by categories:
   - [Commercial](#commercial-projects) 
   - [React](#react)
   - [Angular](#angular)
-  - [A bit of math](#a-bit-of-math)
-  - [Front-end learning](#front-end-learning)
   - [QA recruitment assignments](#qa-recruitment-assignments)
   - [Learning materials](#learning-materials)
 
@@ -84,63 +82,27 @@ Below I listed my GitHub projects, grouped by categories:
       <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
    </div>
 
-## A bit of math
-- **Sorting Algorithms**: [repo](https://github.com/wroclawianka/sorting-algorithms)
-   - Description: visualization of sorting algorithms
-   - Technologies: Angular 5, TypeScript, SCSS
-   - *In progress*
-
-- **Binary Calculator**: [page](https://wroclawianka.github.io/binary-calculator/), [repo](https://github.com/wroclawianka/binary-calculator)
-   - Description: a simple project of the binary calculator with validation of the fields
-   - Technologies: JavaScript, jQuery, Bootstrap
-   - Date: Jun 2018
+##  JavaScript & jQuery
+ - **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage)
+   - :mega: webpage of an unexisting service company
+   - :wrench: jQuery, CSS Grid, Google Maps Embeded
+   - :date: Feb 2018
+   
+   <div align="center">
+      <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
+      <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
+   </div>
+   
+ - **Binary Calculator**: [page](https://wroclawianka.github.io/binary-calculator/), [repo](https://github.com/wroclawianka/binary-calculator)
+   - :mega: a simple project of the binary calculator with validation of the fields
+   - :wrench: JavaScript, jQuery, Bootstrap
+   - :date: Jun 2018
    
    <div align="center">
       <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/binary-calculator_1.png"/>
    </div>
    
-##  Front-end learning
-- **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage) 
-   - Description: webpage of an unexisting service company. My first try of the topic 
-   - Technologies: jQuery, CSS Grid, Google Maps Embeded
-   - Date: Feb 2018
-   
-      <div align="center">
-      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
-        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
-   </div>
-   
-- **CSS tricks**: [repo](https://github.com/wroclawianka/css-tricks)
-   - Description: repository for learning CSS related topics
-   - Technologies: CSS Grid, Flexbox
-   - Date: May 2018
-   
-- **ES6 Learning**: [repo](https://github.com/wroclawianka/ES6-learning)
-   - Description: repository to learn ECMAScript 6 with Wes Bos
-   - Technologies: JavaScript (ECMAScript6)
-   - Date: Jan 2018
-   
-- **JavaScript Learning**: [repo](https://github.com/wroclawianka/javaScript-learning)
-   - Description: repository to learn basics of JavaScript
-   - Technologies: JavaScript
-   - Date: Oct 2018
 
-## QA recruitment assignments
-- **Phonebook Application**: [repo](https://github.com/wroclawianka/phonebook-application)
-  - Description: define, implement and test a simple application for a phonebook
-  - Technologies: Java
-  - Date: Mar 2017
-
-- **E-shop Test**: [repo](https://github.com/wroclawianka/eshop-tests)
-  - Description: create a web acceptance test for one of the internet markets covering the described scenario
-  - Technologies: Java, Selenium
-  - Date: Mar 2017
-
-- **Google Forms Test**: [repo](https://github.com/wroclawianka/google-forms-test)
-  - Description: QA automation testing google form 
-  - Technologies: Java, Selenium
-  - Date: Mar 2017
-  
 ## Learning materials
 Courses I took, books and blogs I read:
 
