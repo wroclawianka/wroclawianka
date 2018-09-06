@@ -40,9 +40,10 @@ Below I listed my GitHub projects, grouped by categories:
    - :wrench: jQuery, SCSS, CSS Grid, Google Maps Embeded
    - :date: May 2018
    
+  
    <div align="center">
-      <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
-        <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
+      <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
+        <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
    </div>
 
 ## React
@@ -66,58 +67,21 @@ Below I listed my GitHub projects, grouped by categories:
    
 ## Angular
  - **Loan Ratings App**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repo](https://github.com/wroclawianka/loan-ratings-app)
-   - Description: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
-   - Technologies: Angular 5, TypeScript, CSS Grid, CORS
-   - Date: May 2018
+   - :mega: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
+   - :wrench: Angular 5, TypeScript, CSS Grid, CORS
+   - :date: May 2018
    
    <div align="center">
       <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/loan-ratings-app.png"/>
    </div>
    
- - **Prague with my eyes - blog template**: [page](http://blog.dorotazelga.aspnet.pl/), [repo](https://github.com/unrealdst/BlogApi/tree/master/Blog2.0/blog2.0)
-   - Description: project of simple lifestyle and travel blog written by scratch
-   - Technologies: Angular 5, TypeScript, CSS Grid
-   - Date: Mar 2018
+ - **Prague with my eyes**: [page](http://blog.dorotazelga.aspnet.pl/), [repo](https://github.com/unrealdst/BlogApi/tree/master/Blog2.0/blog2.0)
+   - :mega: template of lifestyle and travel blog written by scratch
+   - :wrench: Angular 5, TypeScript, CSS Grid
+   - :date: Mar 2018
    
    <div align="center">
       <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
-   </div>
-
-- **Cookbook**: [page](https://wroclawianka.github.io/cookbook/), [repo](https://github.com/wroclawianka/cookbook)
-   - Description: the final project of course: Udemy, Angular 6 - The Complete Guide
-   - Technologies: Angular 6, TypeScript
-   - *In progress*
-   
-   <div align="center">
-      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/cookbook.png"/>
-   </div>
-  
-- **Angular Learning - Udemy**:  [page](https://wroclawianka.github.io/angular-learning-udemy/), [repo](https://github.com/wroclawianka/angular-learning-udemy)
-   - Description: course assignments: Udemy, Angular 6 - The Complete Guide
-   - Technologies: Angular 6, TypeScript
-   - *In progress*
-   
-   <div align="center">
-      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-udemy.png"/>
-   </div>
-   
-- **Angular Learning - Routing**:  [page](https://wroclawianka.github.io/angular-learning-routing/), [repo](https://github.com/wroclawianka/angular-learning-routing)
-   - Description: routing part of the course: Udemy, Angular 6 - The Complete Guide
-   - Technologies: Angular 6, TypeScript
-   - Date: July 2018
-   
-   <div align="center">
-      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-routing_1.png"/>
-   </div>
-   
-   
-- **Heroes Tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repo](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
-   - Description: heroes tutorial from official Angular site done by myself due to self-learning purposes
-   - Technologies: Angular 5, TypeScript
-   - Date: Dec 2017
-   
-   <div align="center">
-      <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-heroes-tutorial.png"/>
    </div>
 
 ## A bit of math
@@ -202,3 +166,4 @@ Courses I took, books and blogs I read:
   - HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
 
 and more... like playing [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961) or [Human Resource Machine](https://www.wikiwand.com/en/Human_Resource_Machine)!
+
