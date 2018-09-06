@@ -1,10 +1,9 @@
-<h1 align="center">List of my projects</h1>
 <p align="center">
   <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
 </p>
 
 ## About me
-Hi! I am Dorota. I am originally from Poland, but I am living in the Prague, Czech Republic. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular and related technologies which you can check below. 
+Hi! I am Dorota. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
 
 ## My main technologies
 
@@ -19,18 +18,21 @@ Hi! I am Dorota. I am originally from Poland, but I am living in the Prague, Cze
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
    </p>
+   
+## Currently learning
+  <p align="center">
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
+   </p>
   
 ## Portfolio
-To visit my portfolio go to [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio)) with my favorite projects described.
+Do not hesitate to check my portfolio page: [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio))
 
-Below I listed my GitHub projects, grouped by categories:
+Below I listed all of my projects, grouped by categories:
 
 ## Projects
   - [Commercial](#commercial-projects) 
   - [React](#react)
   - [Angular](#angular)
-  - [QA recruitment assignments](#qa-recruitment-assignments)
-  - [Learning materials](#learning-materials)
 
 ## Commercial projects
 - **Panowie z warsztatu**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [repo](https://github.com/wroclawianka/workshop-modern)
@@ -101,31 +103,3 @@ Below I listed my GitHub projects, grouped by categories:
    <div align="center">
       <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/binary-calculator_1.png"/>
    </div>
-   
-
-## Learning materials
-Courses I took, books and blogs I read:
-
-### React materials
-  - [React for Beginners](https://reactforbeginners.com/), by Wes Bos
-
-### Angular materials
-  - Angular 6 with Maximilian Schwarzmüller, [Udemy - Angular 6 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
- - Angular blogs, such as [ANGULAR.LOVE](http://www.angular.love)
-
-### JavaScript, ECMAScript 6 & jQuery
-  - Vanilla JavaScript with [JavaScript 30](https://javascript30.com/), by Wes Bos
-  - [ECMAScript for Everyone](https://es6.io/), by Wes Bos
-  - [JavaScript and jQuery](http://javascriptbook.com/): Interactive Front-End Web Development 1st Edition, by Jon Duckett
-  - [JavaScript Absolute Beginner's Guide](http://www.informit.com/store/javascript-absolute-beginners-guide-9780789758064), by Kirupa Chinnathambi and [Kirupa blog](https://www.kirupa.com/)
-  - [JavaScript. Ćwiczenia praktyczne](https://helion.pl/ksiazki/javascript-cwiczenia-praktyczne-wydanie-iii-marcin-lis,cwjas3.htm#format/e). Wydanie III (PL), by Marcin Lis
-
-## Bit of CSS 
-  - [CSS Grid](https://cssgrid.io/), by Wes Bos
-  - [Flexbox](https://flexbox.io/), by Wes Bos
-
-## Codeacademy
-  - HTML, CSS, JavaScript, Responsive Design, AngularJS 1.X, Java, SASS, Python
-
-and more... like playing [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961) or [Human Resource Machine](https://www.wikiwand.com/en/Human_Resource_Machine)!
-
