@@ -36,9 +36,9 @@ Below I listed my GitHub projects, grouped by categories:
 
 ## Commercial projects
 - **Panowie z warsztatu**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [repo](https://github.com/wroclawianka/workshop-modern)
-   - Description: modern and responsive page for a workshop company
-   - Technologies: jQuery, SCSS, CSS Grid, Google Maps Embeded
-   - Date: May 2018
+   - :mega: modern and responsive page for a workshop company
+   - :wrench: jQuery, SCSS, CSS Grid, Google Maps Embeded
+   - :date: May 2018
    
    <div align="center">
       <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
