@@ -5,6 +5,8 @@
 ## About me
 Hi! I am Dorota. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
 
+Portfolio: [http://dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio))
+
 ## My main technologies
 
   <p align="center">
@@ -24,15 +26,13 @@ Hi! I am Dorota. I am working in IT since 2014, having QA background, still, rig
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
    </p>
   
-## Portfolio
-Do not hesitate to check my portfolio page: [dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio))
-
-Below I listed all of my projects, grouped by categories:
-
 ## Projects
+My front-end projects, grouped by categories:
   - [Commercial](#commercial-projects) 
   - [React](#react)
   - [Angular](#angular)
+  - [JavaScript & jQuery](#javascript--jquery)
+  - [Learning projects](#learning-projects)
 
 ## Commercial projects
 - **Panowie z warsztatu**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [repo](https://github.com/wroclawianka/workshop-modern)
@@ -103,3 +103,33 @@ Below I listed all of my projects, grouped by categories:
    <div align="center">
       <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/binary-calculator_1.png"/>
    </div>
+
+##  Learning Projects
+Projects created as results of courses and tutorials
+
+ - **React: Catch of the Day**: [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
+   - :mega: [React for begginners](https://reactforbeginners.com/) by Wes Bos
+   - :date: Aug 2018
+
+ - **Angular: Cookbook**: [page](https://wroclawianka.github.io/cookbook/), [repo](https://github.com/wroclawianka/cookbook)
+   - :mega: the final project of course: [Angular 6 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/) by M. Schwarzmüller, Udemy
+   
+<p align="center">
+  <img width="500px" style="padding:10px;" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/cookbook.png"/>
+</p>
+   
+ - **Angular: Course Assigments**: main part: [page](https://wroclawianka.github.io/angular-learning-udemy/), [repo](https://github.com/wroclawianka/angular-learning-udemy) | routing: [page](https://wroclawianka.github.io/angular-learning-routing/), [repo](https://github.com/wroclawianka/angular-learning-routing)
+   - :mega: assignments of the course: [Angular 6 - The Complete Guide](https://www.udemy.com/the-complete-guide-to-angular-2/)
+   
+<p align="center">
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-udemy.png"/>
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-learning-routing_1.png"/>
+</p>
+   
+ - **Angular: Heroes Tutorial**: [page](https://wroclawianka.github.io/angular2.0_heroes-tutorial/), [repo](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
+   - :mega: heroes tutorial from official [Angular site](https://angular.io/tutorial) done by myself due to self-learning purposes
+   - :date: Dec 2017
+   
+<p align="center">
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular-heroes-tutorial.png"/>
+</p>
