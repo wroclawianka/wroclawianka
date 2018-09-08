@@ -7,6 +7,8 @@ Hi! I am Dorota. I am working in IT since 2014, having QA background, still, rig
 
 Portfolio: [http://dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio))
 
+You can also find me on [CodinGame].(https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
+
 ## My main technologies
 
   <p align="center">
@@ -158,4 +160,5 @@ Projects created as results of courses and tutorials
      - [JavaScript. Ćwiczenia praktyczne](https://helion.pl/ksiazki/javascript-cwiczenia-praktyczne-wydanie-iii-marcin-lis,cwjas3.htm#format/e). Wydanie III (PL), by Marcin Lis
    - :date: Oct 2018
 
-You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
+   ##  QA assignments
+Previously I have done few projects as [QA recruitment assignments]((https://github.com/wroclawianka/list-of-projects/blob/master/qa-aassignments.md)).
