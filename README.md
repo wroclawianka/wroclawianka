@@ -7,7 +7,7 @@ Hi! I am Dorota. I am working in IT since 2014, having QA background, still, rig
 
 Portfolio: [http://dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio))
 
-You can also find me on [CodinGame].(https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
+You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961).
 
 ## My main technologies
 
