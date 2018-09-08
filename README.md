@@ -161,4 +161,4 @@ Projects created as results of courses and tutorials
    - :date: Oct 2018
 
    ##  QA assignments
-Previously I have done few projects as [QA recruitment assignments]((https://github.com/wroclawianka/list-of-projects/blob/master/qa-aassignments.md)).
+Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/list-of-projects/blob/master/qa-assignments.md).
