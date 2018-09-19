@@ -86,6 +86,15 @@ My front-end projects, grouped by categories:
 </p>
 
 ##  JavaScript & jQuery
+ - **Graphical Dashboard**: [repo](https://github.com/wroclawianka/graphical-dashboard)
+   - :mega: webpage with diagrams presenting a company results 
+   - :wrench: pure JavaScript, CSS, D3.js, Jasmine
+   - :date: Sep 2018
+   
+<p align="center">
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/graphical-dashboard.png"/>
+</p>
+   
  - **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage)
    - :mega: webpage of an unexisting service company
    - :wrench: jQuery, CSS Grid, Google Maps Embeded
