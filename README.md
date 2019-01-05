@@ -75,7 +75,7 @@ I have created few [react projects](https://github.com/wroclawianka/list-of-proj
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/graphical-dashboard.png"/>
 </p>
    
- - **Car Service Webpage**: [page](http://workshop.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/car-service-webpage)
+ - **Car Service Webpage**: [page](https://wroclawianka.github.io/car-service-webpage), [repo](https://github.com/wroclawianka/car-service-webpage)
    - :mega: webpage of an unexisting service company
    - :wrench: jQuery, CSS Grid, Google Maps Embeded
    - :date: Feb 2018
