@@ -12,6 +12,7 @@ You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c
 ## My main technologies
 
   <p align="center">
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_js.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_5.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/typescript.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ES6.png"/>
@@ -25,9 +26,9 @@ You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c
   
 ## Projects
 My front-end projects, grouped by categories:
-  - [Commercial](#commercial-projects) 
-  - [React](#react)
+  - [Commercial](#commercial-projects)
   - [Angular](#angular)
+  - [React](#react)
   - [JavaScript & jQuery](#javascript--jquery)
   - [Learning projects](#learning-projects)
 
@@ -42,25 +43,6 @@ My front-end projects, grouped by categories:
     <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
 </p>
 
-## React
- - **Ordering App**: [repo](https://github.com/wroclawianka/ordering-assignment)
-   - :mega: simple ordering app, which includes all details of your order
-   - :wrench: React, JavaScript (ES6)
-   - :date: July 2018
-   
-<p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ordering-assignment.png"/>
-</div>
-   
-- **Book List App**: [repo](https://github.com/wroclawianka/book-list-assignment)
-   - :mega: simple application with a list of books
-   - :wrench: React, JavaScript (ES6)
-   - :date: July 2018
-   
-<p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/book-list-app.png"/>
-</p>
-   
 ## Angular
  - **Loan Ratings App**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repo](https://github.com/wroclawianka/loan-ratings-app)
    - :mega: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
@@ -79,6 +61,9 @@ My front-end projects, grouped by categories:
 <p align="center">
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
 </p>
+
+## React
+I have created few [react projects](https://github.com/wroclawianka/list-of-projects/blob/master/react.md), mainly for recruitment assignments purposes
 
 ##  JavaScript & jQuery
  - **Graphical Dashboard**: [repo](https://github.com/wroclawianka/graphical-dashboard)
