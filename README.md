@@ -3,9 +3,9 @@
 </p>
 
 ## About me
-Hi! I am Dorota. I am working in IT since 2014, having QA background, still, right now I would like to focus my coding skills and find a job as a Frontend Developer.  I created a couple of front-end projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
+Hi! I am Dorota. I am working in IT since 2014, and since mid-2017 I am focusing on my frontend skills. I created a couple of projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
 
-Portfolio: [http://dorotazelga.aspnet.pl](http://dorotazelga.aspnet.pl) ([repo](https://github.com/wroclawianka/portfolio))
+Portfolio: [https://wroclawianka.github.io/portfolio/](https://wroclawianka.github.io/portfolio/) ([repo](https://github.com/wroclawianka/portfolio))
 
 You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961).
 
@@ -21,11 +21,6 @@ You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Bootstrap.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
-   </p>
-   
-## Currently learning
-  <p align="center">
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
    </p>
   
 ## Projects
