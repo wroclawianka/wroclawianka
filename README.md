@@ -5,7 +5,7 @@
 ## About me
 Hi! I am Dorota. I am working in IT since 2014, and since mid-2017 I am focusing on my frontend skills. I created a couple of projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
 
-Portfolio: [https://wroclawianka.github.io/portfolio/](https://wroclawianka.github.io/portfolio/) ([repo](https://github.com/wroclawianka/portfolio))
+Portfolio: [https://wroclawianka.github.io](https://wroclawianka.github.io/portfolio/) ([repo](https://github.com/wroclawianka))
 
 You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961).
 
