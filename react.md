@@ -8,7 +8,7 @@
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ordering-assignment.png"/>
 </div>
    
-- **Book List App**: [repo](https://github.com/wroclawianka/book-list-assignment)
+- **Book List App**: [page](https://book-list-dorota-zelga.netlify.com/), [repo](https://github.com/wroclawianka/book-list-assignment)
    - :mega: simple application with a list of books
    - :wrench: React, JavaScript (ES6)
    - :date: July 2018
