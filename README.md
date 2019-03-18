@@ -97,7 +97,7 @@ I have created few [react projects](https://github.com/wroclawianka/list-of-proj
 ##  Learning Projects
 Projects created as results of courses and tutorials
 
- - **React: Catch of the Day**: [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
+ - **React: Catch of the Day**: [page](https://eloquent-swartz-0290a0.netlify.com/), [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
    - :mega: [React for begginners](https://reactforbeginners.com/) by Wes Bos
    - :date: Aug 2018
 
