@@ -33,7 +33,7 @@ My front-end projects, grouped by categories:
   - [Learning projects](#learning-projects)
 
 ## Commercial projects
-- **Panowie z warsztatu**: [panowiezwarsztatu.pl](http://panowiezwarsztatu.pl), [repo](https://github.com/wroclawianka/workshop-modern)
+- **Panowie z warsztatu**: [page](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
    - :mega: modern and responsive page for a workshop company
    - :wrench: jQuery, SCSS, CSS Grid, Google Maps Embeded
    - :date: May 2018
