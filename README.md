@@ -66,7 +66,7 @@ My front-end projects, grouped by categories:
 I have created few [react projects](https://github.com/wroclawianka/list-of-projects/blob/master/react.md), mainly for recruitment assignments purposes
 
 ##  JavaScript & jQuery
- - **Graphical Dashboard**: [repo](https://github.com/wroclawianka/graphical-dashboard)
+ - **Graphical Dashboard**: [page](https://graphical-dashboard.netlify.com/), [repo](https://github.com/wroclawianka/graphical-dashboard)
    - :mega: webpage with diagrams presenting a company results 
    - :wrench: pure JavaScript, CSS, D3.js, Jasmine
    - :date: Sep 2018
