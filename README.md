@@ -53,7 +53,7 @@ My front-end projects, grouped by categories:
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/loan-ratings-app.png"/>
 </p>
    
- - **Prague with my eyes**: [page](http://blog.dorotazelga.aspnet.pl/), [repo](https://github.com/wroclawianka/BlogApi/tree/master/Blog2.0/blog2.0)
+ - **Prague with my eyes**: [page](https://praha-blog.netlify.com/), [repo](https://github.com/wroclawianka/BlogApi/tree/master/Blog2.0/blog2.0)
    - :mega: template of lifestyle and travel blog written by scratch
    - :wrench: Angular 5, TypeScript, CSS Grid
    - :date: Mar 2018
