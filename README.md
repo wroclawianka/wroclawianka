@@ -8,7 +8,7 @@ Hi! I am Dorota. I am working in IT since 2014, and since mid-2017 I am focusing
 - Portfolio: [https://wroclawianka.github.io](https://wroclawianka.github.io) ([repo](https://github.com/wroclawianka/portfolio/))
 - [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
 
-You can also find me on [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961).
+You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
 
 ## My main technologies
 
