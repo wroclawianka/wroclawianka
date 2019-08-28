@@ -27,12 +27,19 @@ You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) an
    </p>
   
 ## Projects
-My front-end projects, grouped by categories:
+My projects, grouped by categories:
+
   - [Commercial](#commercial-projects)
   - [Angular](#angular)
   - [React](#react)
   - [JavaScript & jQuery](#javascript--jquery)
   - [Learning projects](#learning-projects)
+  
+## Full-stack project 
+- **Phonebook**: [repo](https://github.com/wroclawianka/workshop-modern)
+   - :mega: phonebook application with possibility to add, read, edit and delete entries
+   - :wrench: React, MongoDB, Material UI, axios, concurrently
+   - :date: July 2019
 
 ## Commercial projects
 - **Panowie z warsztatu**: [page](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
