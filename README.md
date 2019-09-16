@@ -36,7 +36,7 @@ My projects, grouped by categories:
   - [Learning projects](#learning-projects)
   
 ## Full-stack 
-- **Phonebook**: [repo](https://github.com/wroclawianka/workshop-modern)
+- **Phonebook**: [repo](https://github.com/wroclawianka/phonebook)
    - :mega: phonebook application with possibility to add, read, edit and delete entries
    - :wrench: React, MongoDB, Material UI, axios, concurrently
    - :date: July 2019
