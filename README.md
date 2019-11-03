@@ -25,6 +25,11 @@ You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) an
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
    </p>
+   
+## Currently learning
+  <p align="center">
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/redux.png"/>
+   </p>
   
 ## Projects
 My projects, grouped by categories:
