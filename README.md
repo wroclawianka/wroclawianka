@@ -5,7 +5,7 @@
 ## About me
 Hi! I am Dorota. I am working in IT since 2014, and since mid-2017 I am focusing on my frontend skills. I created a couple of projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
 
-- Portfolio: [https://wroclawianka.github.io](https://wroclawianka.github.io) ([repo](https://github.com/wroclawianka/portfolio/))
+- [Portfolio](https://wroclawianka.github.io), ([repo](https://github.com/wroclawianka/portfolio/))
 - [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
 
 You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
@@ -43,7 +43,7 @@ My projects, grouped by categories:
 ## Full-stack 
 - **Phonebook**: [repo](https://github.com/wroclawianka/phonebook)
    - :mega: phonebook application with possibility to add, read, edit and delete entries
-   - :wrench: React, MongoDB, Material UI, axios, concurrently
+   - :wrench: React, Node.js, MongoDB, Material UI, axios, concurrently
    - :date: July 2019
    
 <p align="center">
