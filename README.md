@@ -2,9 +2,20 @@
   <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
 </p>
 
-## About me
-Hi! I am Dorota. I am working in IT since 2014, and since mid-2017 I am focusing on my frontend skills. I created a couple of projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
+## Welcome!
 
+Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
+
+## About me
+
+I am a huge agile enthusiast and I enjoy working in a dynamic team. I am a well-organized person with plenty of motivation, which does not afraid of challenges at work. I consider myself a good self-learner and I put an effort to grow my professional skills.
+
+I am working in IT since 2014. Before frontend development, I have gained 4 years of experience in quality assurance. I am experienced in test automation with Selenium and JavaScript, Java and C#. I was also working with such tools such as Ansible and Jenkins. I this time I had a chance to be a part of multiple international teams, including:
+- Fortify Static Code Analyzer, which identifies vulnerabilities in the software projects
+- Collibra DGC platform, that provides tools for data management and stewardship
+- and in PGS Software, where I was working on an internal company system.
+
+### Links
 - [Portfolio](https://wroclawianka.github.io), ([repo](https://github.com/wroclawianka/portfolio/))
 - [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
 
