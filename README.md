@@ -49,7 +49,7 @@ My projects, grouped by categories:
   - [Angular](#angular)
   - [React](#react)
   - [JavaScript & jQuery](#javascript--jquery)
-  - [Courses & tutorials](#courses-&-tutorials)
+  - [Courses & tutorials](#courses--tutorials)
   
 ## Full-stack 
 - **Phonebook**: [repo](https://github.com/wroclawianka/phonebook)
