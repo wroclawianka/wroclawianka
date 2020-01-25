@@ -49,7 +49,7 @@ My projects, grouped by categories:
   - [Angular](#angular)
   - [React](#react)
   - [JavaScript & jQuery](#javascript--jquery)
-  - [Learning projects](#learning-projects)
+  - [Courses & tutorials](#courses-&-tutorials)
   
 ## Full-stack 
 - **Phonebook**: [repo](https://github.com/wroclawianka/phonebook)
@@ -161,7 +161,7 @@ My projects, grouped by categories:
   <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/binary-calculator_1.png"/>
 </p>
 
-##  Learning Projects
+##  Courses & tutorials
 [Projects](https://github.com/wroclawianka/list-of-projects/blob/master/learning-projects.md) created as results of courses and tutorials
 
 ##  QA assignments
