@@ -1,6 +1,24 @@
 #  Learning Projects
 Projects created as results of courses and tutorials
 
+- **Modern React with Redux**, Stephen Grider, Udemy
+
+   - [Video Streamer](https://github.com/wroclawianka/video-streamer)
+      - :mega: full stack video streamer
+      - :wrench: React + Redux, Google OAuth, Semantic UI, JSON server (mock of db)
+      - :date: December 2019 - January 2020
+ 
+   - [Songs App](https://github.com/wroclawianka/songs-app)
+      - :mega: present and select your songs.
+      - :wrench: React + Redux, Semantic UI
+      - :date: November 2019
+ 
+    - [Blogs Reader](https://github.com/wroclawianka/blogs-reader)
+       - :mega: blogs reader. Redux learning
+       - :wrench: React + Redux, Semantic UI, JSONPlaceholder
+       - :date: November 2019
+
+
  - **React: Catch of the Day**: [page](https://eloquent-swartz-0290a0.netlify.com/), [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
    - :mega: [React for begginners](https://reactforbeginners.com/) by Wes Bos
    - :date: Aug 2018
