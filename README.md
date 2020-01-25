@@ -93,6 +93,18 @@ My projects, grouped by categories:
 </p>
 
 ## React
+
+ - **CryptoTracker**: [page](https://wroclawianka.github.io/crypto-tracker/), [repo](https://github.com/wroclawianka/crypto-tracker)
+   - :mega: cryptocurrency price tracker. The application allows us to search cryptocurrencies and adds them to favorites. 
+            You can see prices of your favorites cryptocurrencies, and modify them on the "Edit Favourites" page. 
+   - :wrench: Angular, ngrx, Material UI
+   - :date: January 2020
+   
+<p align="center">
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_1.png"/>
+    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_2.png"/>
+</p>
+
  - **Sorting Algorithms App**: [page](https://sorting-algorithms-app.netlify.com), [repo](https://github.com/wroclawianka/sorting)
    - :mega: application with visualization of sorting algorithms
    - :wrench: React + TypeScript, Bootstrap, Pose
