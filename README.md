@@ -16,7 +16,7 @@ I am working in IT since 2014. Before frontend development, I have gained 4 year
 - and in PGS Software, where I was working on an internal company system.
 
 ### Links
-- [Portfolio](https://wroclawianka.github.io), ([repo](https://github.com/wroclawianka/portfolio/))
+- [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
 - [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
 
 You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
@@ -162,9 +162,8 @@ My projects, grouped by categories:
 </p>
 
 ##  Courses & tutorials
-[Projects](https://github.com/wroclawianka/list-of-projects/blob/master/learning-projects.md) created as results of courses and tutorials. 
+[Projects](https://github.com/wroclawianka/list-of-projects/blob/master/learning-projects.md) created as results of courses and tutorials:
 
-### Frontend Development
 - [Modern React with Redux](https://www.udemy.com/share/100YAOBUAcc11bTHw=/), Stephen Grider, Udemy
 - [Angular 6 - The Complete Guide](https://www.udemy.com/share/100YzMBUAcc11bTHw=/), Maximilian Schwarzmüller, Udemy
 - [React: React for Beginners](https://reactforbeginners.com/), Wes Bos
@@ -173,9 +172,9 @@ My projects, grouped by categories:
 - [CSS Grid](https://cssgrid.io/), Wes Bos
 - [Flexbox](https://flexbox.io/), Wes Bos
 
-and more
+[Details](https://github.com/wroclawianka/about-me/blob/master/courses.md) about courses and tutorials finished by me
 
-### Certificates
+## Certificates
 - ISTQB Foundation level
 
 ##  QA assignments
