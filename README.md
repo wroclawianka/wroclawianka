@@ -16,8 +16,9 @@ I am working in IT since 2014. Before frontend development, I have gained 4 year
 - and in PGS Software, where I was working on an internal company system.
 
 ### Links
-- [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
-- [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
+:gem: [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
+
+:pushpin: [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
 
 You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
 
