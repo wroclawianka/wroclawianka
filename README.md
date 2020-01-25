@@ -162,7 +162,21 @@ My projects, grouped by categories:
 </p>
 
 ##  Courses & tutorials
-[Projects](https://github.com/wroclawianka/list-of-projects/blob/master/learning-projects.md) created as results of courses and tutorials
+[Projects](https://github.com/wroclawianka/list-of-projects/blob/master/learning-projects.md) created as results of courses and tutorials. 
+
+### Frontend Development
+- [Modern React with Redux](https://www.udemy.com/share/100YAOBUAcc11bTHw=/), Stephen Grider, Udemy
+- [Angular 6 - The Complete Guide](https://www.udemy.com/share/100YzMBUAcc11bTHw=/), Maximilian Schwarzmüller, Udemy
+- [React: React for Beginners](https://reactforbeginners.com/), Wes Bos
+- [ECMAScript6](https://es6.io/), Wes Bos
+- [JavaScript 30](https://javascript30.com/), Wes Bos
+- [CSS Grid](https://cssgrid.io/), Wes Bos
+- [Flexbox](https://flexbox.io/), Wes Bos
+
+and more
+
+### Certificates
+- ISTQB Foundation level
 
 ##  QA assignments
 Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/list-of-projects/blob/master/qa-assignments.md).
