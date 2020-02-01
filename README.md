@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/></br>
+  <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/>
 </p>
 
 ## Welcome!
