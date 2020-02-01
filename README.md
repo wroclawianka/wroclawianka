@@ -46,9 +46,9 @@ You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) an
 ## Projects
 My projects, grouped by categories:
   - [Full-stack](#full-stack)
-  - [Commercial](#commercial-projects)
-  - [Angular](#angular)
   - [React](#react)
+  - [Angular](#angular)
+  - [Commercial](#commercial-projects)
   - [JavaScript & jQuery](#javascript--jquery)
   - [Courses & tutorials](#courses--tutorials)
   
@@ -61,36 +61,6 @@ My projects, grouped by categories:
 <p align="center">
   <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/phonebook_1.png"/>
     <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/phonebook_3.png"/>
-</p>
-
-## Commercial projects
-- **Panowie z warsztatu**: [page](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
-   - :mega: modern and responsive page for a workshop company
-   - :wrench: jQuery, SCSS, CSS Grid, Google Maps Embeded
-   - :date: May 2018
-   
-<p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
-    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
-</p>
-
-## Angular
- - **Loan Ratings App**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repo](https://github.com/wroclawianka/loan-ratings-app)
-   - :mega: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
-   - :wrench: Angular 5, TypeScript, CSS Grid, CORS
-   - :date: May 2018
-   
-<p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/loan-ratings-app.png"/>
-</p>
-   
- - **Prague with my eyes**: [page](https://praha-blog.netlify.com/), [repo](https://github.com/wroclawianka/BlogApi/tree/master/Blog2.0/blog2.0)
-   - :mega: template of lifestyle and travel blog written by scratch
-   - :wrench: Angular 5, TypeScript, CSS Grid
-   - :date: Mar 2018
-   
-<p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
 </p>
 
 ## React
@@ -131,6 +101,37 @@ My projects, grouped by categories:
    
 <p align="center">
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/book-list-app.png"/>
+</p>
+
+## Angular
+ - **Loan Ratings App**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repo](https://github.com/wroclawianka/loan-ratings-app)
+   - :mega: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
+   - :wrench: Angular 5, TypeScript, CSS Grid, CORS
+   - :date: May 2018
+   
+<p align="center">
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/loan-ratings-app.png"/>
+</p>
+   
+ - **Prague with my eyes**: [page](https://praha-blog.netlify.com/), [repo](https://github.com/wroclawianka/BlogApi/tree/master/Blog2.0/blog2.0)
+   - :mega: template of lifestyle and travel blog written by scratch
+   - :wrench: Angular 5, TypeScript, CSS Grid
+   - :date: Mar 2018
+   
+<p align="center">
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
+</p>
+
+
+## Commercial projects
+- **Panowie z warsztatu**: [page](https://wroclawianka.github.io/workshop-modern/), [repo](https://github.com/wroclawianka/workshop-modern)
+   - :mega: modern and responsive page for a workshop company
+   - :wrench: jQuery, SCSS, CSS Grid, Google Maps Embeded
+   - :date: May 2018
+   
+<p align="center">
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
+    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
 </p>
 
 ##  JavaScript & jQuery
