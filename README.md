@@ -83,7 +83,7 @@ My projects, grouped by categories:
    
 <p align="center">
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/sorting.png"/>
-</div>
+</p>
 
  - **Ordering App**: [repo](https://github.com/wroclawianka/ordering-assignment)
    - :mega: simple ordering app, which includes all details of your order
@@ -92,7 +92,7 @@ My projects, grouped by categories:
    
 <p align="center">
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ordering-assignment.png"/>
-</div>
+</p>
    
 - **Book List App**: [page](https://book-list-dorota-zelga.netlify.com/), [repo](https://github.com/wroclawianka/book-list-assignment)
    - :mega: simple application with a list of books
