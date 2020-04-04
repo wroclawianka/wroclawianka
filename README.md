@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/avatar.png"/>
+  <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/avatar.png"/>
 </p>
 
 ## Welcome!
@@ -18,33 +18,33 @@ I am working in IT since 2014. Before frontend development, I have gained 4 year
 ### Links
 :gem: [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
 
-:pushpin: [Courses and certificates](https://github.com/wroclawianka/list-of-projects/blob/master/courses.md)
+:pushpin: [Courses and certificates](https://github.com/wroclawianka/about-me/blob/master/courses.md)
 
 You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
 
 ## My technologies
 
   <p align="center">
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/redux.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_5.png"/>
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_js.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/typescript.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ES6.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/jQuery.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_5.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_js.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
   </br>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/sass.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Material_UI.png"/>
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Semantic_UI.png"/>
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Bootstrap.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/selenium.jpg"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Material_UI.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Semantic_UI.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Bootstrap.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/css.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/html.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/selenium.jpg"/>
    </p>
    
 ## Currently learning
   <p align="center">
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/graphQL.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/graphQL.png"/>
    </p>
   
 ## Projects
@@ -63,8 +63,8 @@ My projects, grouped by categories:
    - :date: July 2019
    
 <p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/phonebook_1.png"/>
-    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/phonebook_3.png"/>
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/phonebook_1.png"/>
+    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/phonebook_3.png"/>
 </p>
 
 ## React
@@ -86,7 +86,7 @@ My projects, grouped by categories:
    - :date: March 2019
    
 <p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/sorting.png"/>
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sorting.png"/>
 </p>
 
  - **Ordering App**: [repo](https://github.com/wroclawianka/ordering-assignment)
@@ -95,7 +95,7 @@ My projects, grouped by categories:
    - :date: July 2018
    
 <p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ordering-assignment.png"/>
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ordering-assignment.png"/>
 </p>
    
 - **Book List App**: [page](https://book-list-dorota-zelga.netlify.com/), [repo](https://github.com/wroclawianka/book-list-assignment)
@@ -104,7 +104,7 @@ My projects, grouped by categories:
    - :date: July 2018
    
 <p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/book-list-app.png"/>
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/book-list-app.png"/>
 </p>
 
 ## Angular
@@ -114,7 +114,7 @@ My projects, grouped by categories:
    - :date: May 2018
    
 <p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/loan-ratings-app.png"/>
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/loan-ratings-app.png"/>
 </p>
    
  - **Prague with my eyes**: [page](https://praha-blog.netlify.com/), [repo](https://github.com/wroclawianka/BlogApi/tree/master/Blog2.0/blog2.0)
@@ -123,7 +123,7 @@ My projects, grouped by categories:
    - :date: Mar 2018
    
 <p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/blog.png"/>
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/blog.png"/>
 </p>
 
 
@@ -134,8 +134,8 @@ My projects, grouped by categories:
    - :date: May 2018
    
 <p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_1.png"/>
-    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/panowiezwarsztatu_3.png"/>
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/panowiezwarsztatu_1.png"/>
+    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/panowiezwarsztatu_3.png"/>
 </p>
 
 ##  JavaScript & jQuery
@@ -145,7 +145,7 @@ My projects, grouped by categories:
    - :date: Sep 2018
    
 <p align="center">
-  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/graphical-dashboard.png"/>
+  <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/graphical-dashboard.png"/>
 </p>
    
  - **Car Service Webpage**: [page](https://wroclawianka.github.io/car-service-webpage), [repo](https://github.com/wroclawianka/car-service-webpage)
@@ -154,8 +154,8 @@ My projects, grouped by categories:
    - :date: Feb 2018
    
 <p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_1.png"/>
-  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/workshop-page_2.png"/>
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/workshop-page_1.png"/>
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/workshop-page_2.png"/>
 </p>
    
  - **Binary Calculator**: [page](https://wroclawianka.github.io/binary-calculator/), [repo](https://github.com/wroclawianka/binary-calculator)
@@ -164,11 +164,11 @@ My projects, grouped by categories:
    - :date: Jun 2018
    
 <p align="center">
-  <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/binary-calculator_1.png"/>
+  <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/binary-calculator_1.png"/>
 </p>
 
 ##  Courses & tutorials
-[Projects](https://github.com/wroclawianka/list-of-projects/blob/master/learning-projects.md) created as results of courses and tutorials:
+[Projects](https://github.com/wroclawianka/about-me/blob/master/learning-projects.md) created as results of courses and tutorials:
 
 - [Modern React with Redux](https://www.udemy.com/share/100YAOBUAcc11bTHw=/), Stephen Grider, Udemy
    - :video_game: [Video Streamer](https://github.com/wroclawianka/video-streamer) -  React + Redux, Google OAuth, Semantic UI, JSON server
@@ -195,4 +195,5 @@ My projects, grouped by categories:
 - ISTQB Foundation level
 
 ##  QA assignments
-Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/list-of-projects/blob/master/qa-assignments.md).
+Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/
+-projects/blob/master/qa-assignments.md).
