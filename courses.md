@@ -3,6 +3,7 @@
 ### Frontend Development
 - [Modern React with Redux](https://www.udemy.com/share/100YAOBUAcc11bTHw=/), Stephen Grider, Udemy
    - :video_game: [Video Streamer](https://github.com/wroclawianka/video-streamer) -  React + Redux, Google OAuth, Semantic UI, JSON server
+   - :pencil2: [TODO App](https://github.com/wroclawianka/react-hooks-todo-app) -  React + React Hooks
    - :musical_note: [Songs App](https://github.com/wroclawianka/songs-app) -  React + Redux, Semantic UI
    - :page_with_curl: [Blogs Reader](https://github.com/wroclawianka/blogs-reader) - React + Redux, Semantic UI, JSONPlaceholder
 - [Angular 6 - The Complete Guide](https://www.udemy.com/share/100YzMBUAcc11bTHw=/), Maximilian Schwarzmüller, Udemy
