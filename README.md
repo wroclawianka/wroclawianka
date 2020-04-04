@@ -22,25 +22,29 @@ I am working in IT since 2014. Before frontend development, I have gained 4 year
 
 You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
 
-## My main technologies
+## My technologies
 
   <p align="center">
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_js.png"/>
-        <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/react.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/redux.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_5.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/angular_js.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/typescript.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/ES6.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/jQuery.png"/>
   </br>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/sass.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Bootstrap.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Material_UI.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Semantic_UI.png"/>
+       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/Bootstrap.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/css.png"/>
       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/html.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/selenium.png"/>
    </p>
    
 ## Currently learning
   <p align="center">
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/redux.png"/>
+      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/list-of-projects/master/assets/img/graphQL.png"/>
    </p>
   
 ## Projects
