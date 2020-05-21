@@ -57,7 +57,7 @@ My projects, grouped by categories:
   - [Courses & tutorials](#courses--tutorials)
   
 ## Full-stack 
-- **Phonebook**: [repo](https://github.com/wroclawianka/phonebook)
+- **Phonebook**: [repo](https://github.com/wroclawianka/phonebook), [demo](https://youtu.be/UWDnyAftJW4)
    - :mega: phonebook application with possibility to add, read, edit and delete entries
    - :wrench: React, Node.js, MongoDB, Material UI, axios, concurrently
    - :date: July 2019
@@ -73,7 +73,7 @@ My projects, grouped by categories:
    - :mega: cryptocurrency price tracker. The application allows us to search cryptocurrencies and adds them to favorites. 
             You can see prices of your favorites cryptocurrencies, and modify them on the "Edit Favourites" page. 
    - :wrench: Angular, ngrx, Material UI
-   - :date: January 2020 - ... (working on improvements)
+   - :date: January 2020
    
 <p align="center">
   <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_1.png"/>
@@ -89,7 +89,7 @@ My projects, grouped by categories:
   <img width="500px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sorting.png"/>
 </p>
 
- - **Ordering App**: [repo](https://github.com/wroclawianka/ordering-assignment)
+ - **Ordering App**: [repo](https://github.com/wroclawianka/ordering-assignment), [demo](https://youtu.be/-aCDjMuvmGE)
    - :mega: simple ordering app, which includes all details of your order
    - :wrench: React, JavaScript (ES6)
    - :date: July 2018
@@ -196,5 +196,4 @@ My projects, grouped by categories:
 - ISTQB Foundation level
 
 ##  QA assignments
-Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/
--projects/blob/master/qa-assignments.md).
+Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/about-me/blob/master/qa-assignments.md).
