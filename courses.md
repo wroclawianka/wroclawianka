@@ -16,6 +16,7 @@ Courses and my solutions listed
    - :pencil2: <strong>TODO App</strong>, [repo](https://github.com/wroclawianka/react-hooks-todo-app)
    - :musical_note: <strong>Songs App</strong>, [repo](https://github.com/wroclawianka/songs-app)
    - :page_with_curl: <strong>Blogs Reader</strong> , [repo](https://github.com/wroclawianka/blogs-reader)
+- <strong>AngularJS Patterns: Clean Code</strong>, John Papa, [link](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code/table-of-contents)   
 - <strong>Angular 6 - The Complete Guide</strong>, Maximilian Schwarzmüller, Udemy, [link](https://www.udemy.com/share/100YzMBUAcc11bTHw=/)
    - :pizza: Cookbook, [repo](https://github.com/wroclawianka/cookbook)
    - :book: solution - general part, [repo](https://github.com/wroclawianka/angular-learning-udemy)
