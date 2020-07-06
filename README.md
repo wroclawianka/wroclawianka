@@ -32,7 +32,6 @@ Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects wh
   - [Angular](#angular)
   - [Commercial](#commercial-projects)
   - [JavaScript & jQuery](#javascript--jquery)
-  
   - [Courses & tutorials](#courses)
   - [Certificates](#certificates)
   
