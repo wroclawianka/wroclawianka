@@ -2,9 +2,9 @@
 Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects which you can check below. 
 
 ### Links
-:gem: [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
-
-:pushpin: [Courses and certificates](https://github.com/wroclawianka/about-me/blob/master/courses.md)
+  - [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
+  - [Courses & tutorials](#courses)
+  - [Certificates](#certificates)
 
 ## My technologies
 
@@ -32,8 +32,6 @@ Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects wh
   - [Angular](#angular)
   - [Commercial](#commercial-projects)
   - [JavaScript & jQuery](#javascript--jquery)
-  - [Courses & tutorials](#courses)
-  - [Certificates](#certificates)
   
 ## Full-stack 
 - **Phonebook**: [repo](https://github.com/wroclawianka/phonebook), [demo](https://youtu.be/UWDnyAftJW4)
@@ -52,7 +50,6 @@ Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects wh
    - :mega: app for managing groceries of a company with possibilities to add item, mark and bought and specify cost
    - :wrench: React, Redux, Node.js, MongoDB
    - :date: March 2020
-   - :tv: [Demo](https://youtu.be/r-y8D6FmHk0)
    
    
 <p align="center">
