@@ -48,6 +48,18 @@ Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects wh
 
 ## React
 
+ - **Groceries App**: [demo](https://youtu.be/r-y8D6FmHk0), [repo](https://github.com/wroclawianka/groceries-app)
+   - :mega: app for managing groceries of a company with possibilities to add item, mark and bought and specify cost
+   - :wrench: React, Redux, Node.js, MongoDB
+   - :date: March 2020
+   - :tv: [Demo](https://youtu.be/r-y8D6FmHk0)
+   
+   
+<p align="center">
+   <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/groceries-app/master/assets/img/groceries-app-3.png"/>
+   <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/groceries-app/master/assets/img/groceries-app-4.png"/>
+</p>
+
  - **CryptoTracker**: [page](https://wroclawianka.github.io/crypto-tracker/), [repo](https://github.com/wroclawianka/crypto-tracker)
    - :mega: cryptocurrency price tracker. The application allows us to search cryptocurrencies and adds them to favorites. 
             You can see prices of your favorites cryptocurrencies, and modify them on the "Edit Favourites" page. 
