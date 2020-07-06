@@ -1,5 +1,10 @@
 # Courses and certificates
 
+
+<p align="center">
+  <img width="200px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"/>
+</p>
+
 ## Certificates
 - <strong>ISTQB Foundation Level</strong> - SJSI
 - <strong>JavaScript</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
