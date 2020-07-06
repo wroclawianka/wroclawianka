@@ -1,60 +1,40 @@
-<p align="center">
-  <img width="140px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/avatar.png"/>
-</p>
-
 ## Welcome!
-
-Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects with the use of JavaScript, TypeScript, Angular, React and related technologies which you can check below. 
-
-## About me
-
-I am a huge agile enthusiast and I enjoy working in a dynamic team. I am a well-organized person with plenty of motivation, which does not afraid of challenges at work. I consider myself a good self-learner and I put an effort to grow my professional skills.
-
-I am working in IT since 2014. Before frontend development, I have gained 4 years of experience in quality assurance. I am experienced in test automation with Selenium and JavaScript, Java and C#. I was also working with such tools such as Ansible and Jenkins. I this time I had a chance to be a part of multiple international teams, including:
-- Fortify Static Code Analyzer, which identifies vulnerabilities in the software projects
-- Collibra DGC platform, that provides tools for data management and stewardship
-- and in PGS Software, where I was working on an internal company system.
+Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects which you can check below. 
 
 ### Links
 :gem: [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
 
 :pushpin: [Courses and certificates](https://github.com/wroclawianka/about-me/blob/master/courses.md)
 
-You can also find me on [HackerRank](https://www.hackerrank.com/dorota_zelga) and [CodinGame](https://www.codingame.com/profile/7836df7b0c30c24f3d46df876ec513904224961)
-
 ## My technologies
 
   <p align="center">
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_5.png"/>
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_js.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
+       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_5.png"/>
+       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_js.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
   </br>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Material_UI.png"/>
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Semantic_UI.png"/>
-       <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Bootstrap.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/css.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/html.png"/>
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/selenium.jpg"/>
-   </p>
-   
-## Currently learning
-  <p align="center">
-      <img height="100px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/graphQL.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Material_UI.png"/>
+       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Semantic_UI.png"/>
+       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Bootstrap.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/css.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/html.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/selenium.jpg"/>
    </p>
   
 ## Projects
-My projects, grouped by categories:
   - [Full-stack](#full-stack)
   - [React](#react)
   - [Angular](#angular)
   - [Commercial](#commercial-projects)
   - [JavaScript & jQuery](#javascript--jquery)
-  - [Courses & tutorials](#courses--tutorials)
+  
+  - [Courses & tutorials](#courses)
+  - [Certificates](#certificates)
   
 ## Full-stack 
 - **Phonebook**: [repo](https://github.com/wroclawianka/phonebook), [demo](https://youtu.be/UWDnyAftJW4)
@@ -167,33 +147,37 @@ My projects, grouped by categories:
   <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/binary-calculator_1.png"/>
 </p>
 
-##  Courses & tutorials
-[Projects](https://github.com/wroclawianka/about-me/blob/master/learning-projects.md) created as results of courses and tutorials:
-
-- [Modern React with Redux](https://www.udemy.com/share/100YAOBUAcc11bTHw=/), Stephen Grider, Udemy
-   - :video_game: [Video Streamer](https://github.com/wroclawianka/video-streamer) -  React + Redux, Google OAuth, Semantic UI, JSON server
-   - :pencil2: [TODO App](https://github.com/wroclawianka/react-hooks-todo-app) -  React + React Hooks
-   - :musical_note: [Songs App](https://github.com/wroclawianka/songs-app) -  React + Redux, Semantic UI
-   - :page_with_curl: [Blogs Reader](https://github.com/wroclawianka/blogs-reader) - React + Redux, Semantic UI, JSONPlaceholder
-- [Angular 6 - The Complete Guide](https://www.udemy.com/share/100YzMBUAcc11bTHw=/), Maximilian Schwarzmüller, Udemy
-   - :pizza: [Cookbook](https://github.com/wroclawianka/cookbook) - Angular 5, TypeScript
-   - :book:[My solutions - general part](https://github.com/wroclawianka/angular-learning-udemy)
-   - :link: [My solutions - routing part](https://github.com/wroclawianka/angular-learning-routing)
-- Angular - official tutorial 
-    - :boom:[My solution](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
-- [React: React for Beginners](https://reactforbeginners.com/), Wes Bos
-   - :fish: [Catch of the Day](https://github.com/wroclawianka/catch-of-the-day_react-learning)
-- [ECMAScript6](https://es6.io/), Wes Bos
-   - :closed_book: [My solutions](https://github.com/wroclawianka/ES6-learning)
-- [JavaScript 30](https://javascript30.com/), Wes Bos
-   - :orange_book: [My solutions](https://github.com/wroclawianka/javaScript-learning)
-- [CSS Grid](https://cssgrid.io/), Wes Bos
-    - :blue_book: [My solutions](https://github.com/wroclawianka/css-tricks)
-- [Flexbox](https://flexbox.io/), Wes Bos
-    - :green_book: [My solutions](https://github.com/wroclawianka/css-tricks)
-
 ## Certificates
-- ISTQB Foundation level
+- <strong>ISTQB Foundation Level</strong> - SJSI
+- <strong>JavaScript</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
+- <strong>Pyhon 3</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
+- <strong>CSS</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
+- <strong>HTML</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
+
+## Courses
+Courses and my solutions listed
+- <strong>Modern React with Redux</strong>, Stephen Grider, Udemy - [link](https://www.udemy.com/share/100YAOBUAcc11bTHw=/)<br/>
+   - :video_game: <strong>Video Streamer</strong>, [repo](https://github.com/wroclawianka/video-streamer) 
+   - :pencil2: <strong>TODO App</strong>, [repo](https://github.com/wroclawianka/react-hooks-todo-app)
+   - :musical_note: <strong>Songs App</strong>, [repo](https://github.com/wroclawianka/songs-app)
+   - :page_with_curl: <strong>Blogs Reader</strong> , [repo](https://github.com/wroclawianka/blogs-reader)
+- <strong>AngularJS Patterns: Clean Code</strong>, John Papa, [link](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code/table-of-contents)   
+- <strong>Angular 6 - The Complete Guide</strong>, Maximilian Schwarzmüller, Udemy, [link](https://www.udemy.com/share/100YzMBUAcc11bTHw=/)
+   - :pizza: Cookbook, [repo](https://github.com/wroclawianka/cookbook)
+   - :book: solution - general part, [repo](https://github.com/wroclawianka/angular-learning-udemy)
+   - :link: solution - routing part, [repo](https://github.com/wroclawianka/angular-learning-routing)
+- <strong>Angular - official tutorial</strong> 
+   - :boom: [repo](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
+- <strong>React: React for Beginners</strong>, Wes Bos, [link](https://reactforbeginners.com/)
+   - :fish: Catch of the Day [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
+- <strong>ECMAScript6</strong>, Wes Bos [link](https://es6.io/)
+   - :closed_book: [repo](https://github.com/wroclawianka/ES6-learning)
+- <strong>JavaScript 30</strong>, Wes Bos, [JavaScript 30](https://javascript30.com/)
+   - :orange_book: [repo](https://github.com/wroclawianka/javaScript-learning)
+- <strong>CSS Grid</strong>, Wes Bos, [link](https://cssgrid.io/)
+    - :blue_book: [repo](https://github.com/wroclawianka/css-tricks)
+- <strong>Flexbox</strong>, Wes Bos, [link](https://flexbox.io/)
+    - :green_book: [repo](https://github.com/wroclawianka/css-tricks)
 
 ##  QA assignments
 Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/about-me/blob/master/qa-assignments.md).
