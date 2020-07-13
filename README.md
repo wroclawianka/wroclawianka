@@ -157,6 +157,7 @@ Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects wh
 
 ## Certificates
 - <strong>ISTQB Foundation Level</strong> - SJSI
+- <strong>React + Redux</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
 - <strong>JavaScript</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
 - <strong>Pyhon 3</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
 - <strong>CSS</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
@@ -186,6 +187,8 @@ Courses and my solutions listed
     - :blue_book: [repo](https://github.com/wroclawianka/css-tricks)
 - <strong>Flexbox</strong>, Wes Bos, [link](https://flexbox.io/)
     - :green_book: [repo](https://github.com/wroclawianka/css-tricks)
+    
+    and more
 
 ##  QA assignments
 Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/about-me/blob/master/qa-assignments.md).
