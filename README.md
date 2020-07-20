@@ -1,6 +1,10 @@
 ## Welcome!
 Hi! I am Dorota and I am a Frontend Developer. I created a couple of projects which you can check below. 
 
+[![Twitter: DorotaZelga](https://img.shields.io/twitter/follow/DorotaZelga?style=social)](https://twitter.com/DorotaZelga)
+[![Linkedin: dorotazelga](https://img.shields.io/badge/-dorotazelga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dorotazelga/)](https://www.linkedin.com/in/dorotazelga/)
+[![GitHub wroclawianka](https://img.shields.io/github/followers/wroclawianka?label=follow&style=social)](https://github.com/wroclawianka)
+
 ### Links
   - [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
   - [Courses & tutorials](#courses)
