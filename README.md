@@ -15,9 +15,9 @@ I am ...
  - Working in IT since 2014
  
  Links:
-  - [Portfolio](https://wroclawianka.github.io) [[repo](https://github.com/wroclawianka/portfolio/)]
-  - [Courses & tutorials](https://github.com/wroclawianka/about-me/blob/master/courses-and-certificates.md#courses)
+  - [Portfolio](https://wroclawianka.github.io)
   - [Certificates](https://github.com/wroclawianka/about-me/blob/master/courses-and-certificates.md#certificates)
+  - [Courses & tutorials](https://github.com/wroclawianka/about-me/blob/master/courses-and-certificates.md#courses)
 
 ## My technologies
 
