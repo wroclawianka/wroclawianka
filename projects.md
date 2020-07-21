@@ -121,3 +121,6 @@
 <p align="center">
   <img width="300px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/binary-calculator_1.png"/>
 </p>
+
+##  QA assignments
+Previously I have done few projects as [QA recruitment assignments](https://github.com/wroclawianka/about-me/blob/master/qa-assignments.md).
