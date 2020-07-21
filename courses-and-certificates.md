@@ -1,12 +1,14 @@
 # Courses and certificates
 
-
+<!--
 <p align="center">
   <img width="200px" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/nick-morrison-FHnnjk1Yj7Y-unsplash.jpg"/>
 </p>
+-->
 
 ## Certificates
 - <strong>ISTQB Foundation Level</strong> - SJSI
+- <strong>React + Redux</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
 - <strong>JavaScript</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
 - <strong>Pyhon 3</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
 - <strong>CSS</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
