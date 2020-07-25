@@ -13,6 +13,7 @@ I am ...
  - Self-learner
  - Agile enthusiast
  - Working in IT since 2014
+ - Currently learning Python
  
  Links:
   - [Portfolio](https://wroclawianka.github.io)
@@ -45,8 +46,7 @@ I am ...
   - [Angular](https://github.com/wroclawianka/about-me/blob/master/projects.md#angular)
   - [Commercial](https://github.com/wroclawianka/about-me/blob/master/projects.md#commercial-projects)
   - [JavaScript & jQuery](https://github.com/wroclawianka/about-me/blob/master/projects.md#javascript--jquery)
-  
-  🌱 I’m currently learning Python
+
   
   ## Stats
   
