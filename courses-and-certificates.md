@@ -18,6 +18,9 @@
 
 ### Frontend Development
 Courses and my solutions listed
+
+- <strong>Python Programming for Developers</strong>, Mosh Hamedani -[link](https://codewithmosh.com/p/python-programming-course-developers)<br/>
+   - :snake: [repo](https://github.com/wroclawianka/python-beginning) 
 - <strong>Modern React with Redux</strong>, Stephen Grider, Udemy - [link](https://www.udemy.com/share/100YAOBUAcc11bTHw=/)<br/>
    - :video_game: <strong>Video Streamer</strong>, [repo](https://github.com/wroclawianka/video-streamer) 
    - :pencil2: <strong>TODO App</strong>, [repo](https://github.com/wroclawianka/react-hooks-todo-app)
