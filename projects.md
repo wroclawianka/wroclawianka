@@ -24,17 +24,6 @@
    <img width="45%" src="https://raw.githubusercontent.com/wroclawianka/groceries-app/master/assets/img/groceries-app-4.png"/>
 </p>
 
- - **CryptoTracker**: [page](https://wroclawianka.github.io/crypto-tracker/), [repo](https://github.com/wroclawianka/crypto-tracker)
-   - :mega: cryptocurrency price tracker. The application allows us to search cryptocurrencies and adds them to favorites. 
-            You can see prices of your favorites cryptocurrencies, and modify them on the "Edit Favourites" page. 
-   - :wrench: Angular, ngrx, Material UI
-   - :date: January 2020
-   
-<p align="center">
-  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_1.png"/>
-    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_2.png"/>
-</p>
-
  - **Sorting Algorithms App**: [page](https://sorting-algorithms-app.netlify.com), [repo](https://github.com/wroclawianka/sorting)
    - :mega: application with visualization of sorting algorithms
    - :wrench: React + TypeScript, Bootstrap, Pose
@@ -63,6 +52,17 @@
 </p>
 
 ## Angular
+ - **CryptoTracker**: [page](https://wroclawianka.github.io/crypto-tracker/), [repo](https://github.com/wroclawianka/crypto-tracker)
+   - :mega: cryptocurrency price tracker. The application allows us to search cryptocurrencies and adds them to favorites. 
+            You can see prices of your favorites cryptocurrencies, and modify them on the "Edit Favourites" page. 
+   - :wrench: Angular, ngrx, Material UI
+   - :date: January 2020
+   
+<p align="center">
+  <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_1.png"/>
+    <img width="40%" src="https://raw.githubusercontent.com/wroclawianka/crypto-tracker/master/assets/img/crypto-tracker_2.png"/>
+</p>
+
  - **Loan Ratings App**: [page](https://wroclawianka.github.io/loan-ratings-app/), [repo](https://github.com/wroclawianka/loan-ratings-app)
    - :mega: web app calculating an average amount for loans available on the marketplace of a given rating. Recruitment assignment
    - :wrench: Angular 5, TypeScript, CSS Grid, CORS
