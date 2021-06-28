@@ -9,28 +9,33 @@
 ## Certificates
 - <strong>Associate Cloud Engineer</strong> - Google Cloud
 - <strong>ISTQB Foundation Level</strong> - SJSI
-- Sololearn
-   - <strong>React + Redux</strong>, [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
-   - <strong>JavaScript</strong>, [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
-   - <strong>Pyhon 3</strong>, [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
-   - <strong>CSS</strong>, [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
-   - <strong>HTML</strong>, [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
 
 ## Courses
 
-### Cloud && K8s
+### Cloud && Kubernetes
+- <strong>Architecting with Google Kubernetes Engine: Foundations</strong> - Dec 2020, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/TQ5PPTJSGN77)
+- <strong>Architecting with Google Kubernetes Engine: Workloads</strong> - Dec 2020, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/N9Z72S8EJQLM)
+- <strong>Essential Google Cloud Infrastructure: Core Services</strong> - Dec 2020, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/WAB82M8BN4UZ)
+- <strong>Getting Started with Google Kubernetes Engine</strong> - Dec 2020, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/96KYHWYJ4KEN)
+- <strong>Essential Google Cloud Infrastructure: Foundation</strong> - Dec 2020, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/68LGQD6XXXY8)
+- <strong>Google Cloud Platform Fundamentals: Core Infrastructure</strong> - Nov 2020, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/792LKDVK27AK)
 
 ### Go
 - <strong>Concurrency in Go</strong> - Feb 2021, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/FZT32VPXUQ36)
 - <strong>Functions, Methods, and Interfaces in Go</strong> - Feb 2021, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/V7J53MQLULPG)
 - <strong>Getting Started with Go</strong> - Feb 2021, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/XKP5BCER6NDR)
 
+### Python
+- <strong>Pyhon 3</strong>, [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
+- <strong>Python Programming for Developers</strong>, Mosh Hamedani - [link](https://codewithmosh.com/p/python-programming-course-developers), [repo](https://github.com/wroclawianka/python-beginning) 
 
 ### Frontend Development
 Courses and my solutions listed
 
-- <strong>Python Programming for Developers</strong>, Mosh Hamedani -[link](https://codewithmosh.com/p/python-programming-course-developers)<br/>
-   - :snake: [repo](https://github.com/wroclawianka/python-beginning) 
+- <strong>React + Redux</strong>, [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
+- <strong>JavaScript</strong>, [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
+- <strong>CSS</strong>, [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
+- <strong>HTML</strong>, [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
 - <strong>Modern React with Redux</strong>, Stephen Grider, Udemy - [link](https://www.udemy.com/share/100YAOBUAcc11bTHw=/)<br/>
    - :video_game: <strong>Video Streamer</strong>, [repo](https://github.com/wroclawianka/video-streamer) 
    - :pencil2: <strong>TODO App</strong>, [repo](https://github.com/wroclawianka/react-hooks-todo-app)
