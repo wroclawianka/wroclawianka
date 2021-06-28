@@ -7,14 +7,24 @@
 -->
 
 ## Certificates
+- <strong>Associate Cloud Engineer</strong> - Google Cloud
 - <strong>ISTQB Foundation Level</strong> - SJSI
-- <strong>React + Redux</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
-- <strong>JavaScript</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
-- <strong>Pyhon 3</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
-- <strong>CSS</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
-- <strong>HTML</strong> - SoloLearn [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
+- Sololearn
+   - <strong>React + Redux</strong>, [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
+   - <strong>JavaScript</strong>, [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
+   - <strong>Pyhon 3</strong>, [certificate](https://www.sololearn.com/Certificate/1073-18451704/pdf/)
+   - <strong>CSS</strong>, [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
+   - <strong>HTML</strong>, [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
 
 ## Courses
+
+### Cloud && K8s
+
+### Go
+- <strong>Concurrency in Go</strong> - Feb 2021, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/FZT32VPXUQ36)
+- <strong>Functions, Methods, and Interfaces in Go</strong> - Feb 2021, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/V7J53MQLULPG)
+- <strong>Getting Started with Go</strong> - Feb 2021, Coursera, [certificate](https://www.coursera.org/account/accomplishments/verify/XKP5BCER6NDR)
+
 
 ### Frontend Development
 Courses and my solutions listed
