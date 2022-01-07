@@ -30,17 +30,23 @@
 - <strong>Python Programming for Developers</strong>, Mosh Hamedani - [link](https://codewithmosh.com/p/python-programming-course-developers), [repo](https://github.com/wroclawianka/python-beginning) 
 
 ### Frontend Development
-Courses and my solutions listed
 
+#### TypeScript
+ - TypeScript Basics, [link](https://www.executeprogram.com/courses/typescript-basics)
+ - Everyday TypeScript, [link](https://www.executeprogram.com/courses/everyday-typescript)
+ - Advanced TypeScript, [link](https://www.executeprogram.com/courses/advanced-typescript)
+
+#### React
 - <strong>React + Redux</strong>, [certificate](https://www.sololearn.com/Certificate/1097-18451704/pdf/)
-- <strong>JavaScript</strong>, [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
-- <strong>CSS</strong>, [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
-- <strong>HTML</strong>, [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
 - <strong>Modern React with Redux</strong>, Stephen Grider, Udemy - [link](https://www.udemy.com/share/100YAOBUAcc11bTHw=/)<br/>
    - :video_game: <strong>Video Streamer</strong>, [repo](https://github.com/wroclawianka/video-streamer) 
    - :pencil2: <strong>TODO App</strong>, [repo](https://github.com/wroclawianka/react-hooks-todo-app)
    - :musical_note: <strong>Songs App</strong>, [repo](https://github.com/wroclawianka/songs-app)
    - :page_with_curl: <strong>Blogs Reader</strong> , [repo](https://github.com/wroclawianka/blogs-reader)
+- <strong>React: React for Beginners</strong>, Wes Bos, [link](https://reactforbeginners.com/)
+   - :fish: Catch of the Day [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
+
+#### Angular
 - <strong>AngularJS Patterns: Clean Code</strong>, John Papa, [link](https://app.pluralsight.com/library/courses/angularjs-patterns-clean-code/table-of-contents)   
 - <strong>Angular 6 - The Complete Guide</strong>, Maximilian Schwarzmüller, Udemy, [link](https://www.udemy.com/share/100YzMBUAcc11bTHw=/)
    - :pizza: Cookbook, [repo](https://github.com/wroclawianka/cookbook)
@@ -48,15 +54,16 @@ Courses and my solutions listed
    - :link: solution - routing part, [repo](https://github.com/wroclawianka/angular-learning-routing)
 - <strong>Angular - official tutorial</strong> 
    - :boom: [repo](https://github.com/wroclawianka/angular2.0_heroes-tutorial)
-- <strong>React: React for Beginners</strong>, Wes Bos, [link](https://reactforbeginners.com/)
-   - :fish: Catch of the Day [repo](https://github.com/wroclawianka/catch-of-the-day_react-learning)
-- <strong>ECMAScript6</strong>, Wes Bos [link](https://es6.io/)
-   - :closed_book: [repo](https://github.com/wroclawianka/ES6-learning)
-- <strong>JavaScript 30</strong>, Wes Bos, [JavaScript 30](https://javascript30.com/)
-   - :orange_book: [repo](https://github.com/wroclawianka/javaScript-learning)
-- <strong>CSS Grid</strong>, Wes Bos, [link](https://cssgrid.io/)
-    - :blue_book: [repo](https://github.com/wroclawianka/css-tricks)
-- <strong>Flexbox</strong>, Wes Bos, [link](https://flexbox.io/)
-    - :green_book: [repo](https://github.com/wroclawianka/css-tricks)
+
+#### JavaScript
+- <strong>ECMAScript6</strong>, Wes Bos [link](https://es6.io/), [my repo](https://github.com/wroclawianka/ES6-learning)
+- <strong>JavaScript</strong>, Sololearn, [certificate](https://www.sololearn.com/Certificate/1024-18451704/pdf/)
+- <strong>JavaScript 30</strong>, Wes Bos, [JavaScript 30](https://javascript30.com/), [my repo](https://github.com/wroclawianka/javaScript-learning)
+
+#### HTML/CSS
+- <strong>CSS Grid</strong>, Wes Bos, [link](https://cssgrid.io/), [my repo](https://github.com/wroclawianka/css-tricks)
+- <strong>Flexbox</strong>, Wes Bos, [link](https://flexbox.io/), [my repo](https://github.com/wroclawianka/css-tricks)
+- <strong>CSS</strong>, Sololearn, [certificate](https://www.sololearn.com/Certificate/1023-18451704/pdf/)
+- <strong>HTML</strong>, Sololearn, [certificate](https://www.sololearn.com/Certificate/1014-18451704/pdf/)
 
 and more
