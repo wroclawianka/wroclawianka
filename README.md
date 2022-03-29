@@ -13,7 +13,7 @@ I am ...
  - Self-learner
  - Agile enthusiast
  - Working in IT since 2014
- - Currently learning GraphQL and React Native
+ - Currently learning Java
  
  Links:
   - [Portfolio](https://wroclawianka.github.io)
