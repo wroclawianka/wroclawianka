@@ -13,7 +13,6 @@ I am ...
  - Self-learner
  - Agile enthusiast
  - Working in IT since 2014
- - Currently learning Java
  
  Links:
   - [Portfolio](https://wroclawianka.github.io)
@@ -25,12 +24,14 @@ I am ...
   <p align="center">
        <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_5.png"/>
-       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_js.png"/>
+  <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/GraphQL.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_5.png"/>
+       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_js.png"/>
+
   </br>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Material_UI.png"/>
        <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Semantic_UI.png"/>
