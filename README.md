@@ -24,11 +24,11 @@ I am ...
   <p align="center">
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/apollo_graphQL.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/apollo_graphQL.png.png"/>
        <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/GraphQL.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jest.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jest.png.png"/>
 
   </br>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
