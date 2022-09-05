@@ -25,21 +25,24 @@ I am ...
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/apollo_graphQL.png.png"/>
-       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/GraphQL.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/GraphQL.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jest.png.png"/>
-
-  </br>     
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/storybook.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/chakra_ui.jpg"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Material_UI.png"/>
+  </br>     
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Semantic_UI.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Bootstrap.png"/>
-       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jest.png.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/playwright.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/cypress.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/selenium.jpg"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/css.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/html.png"/>
-       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/selenium.jpg"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
+
    </p>
    
    ## Projects
