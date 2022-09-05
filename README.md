@@ -22,22 +22,22 @@ I am ...
 ## My technologies
 
   <p align="center">
-       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/react.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/redux.png"/>
-  <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/GraphQL.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/apollo_graphQL.png"/>
+       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/GraphQL.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/typescript.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/ES6.png"/>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_5.png"/>
-       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/angular_js.png"/>
+      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jest.png"/>
 
   </br>
-      <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/sass.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Material_UI.png"/>
        <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Semantic_UI.png"/>
        <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/Bootstrap.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/css.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/html.png"/>
+        <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/jQuery.png"/>
       <img height="80px" hspace="3" src="https://raw.githubusercontent.com/wroclawianka/about-me/master/assets/img/selenium.jpg"/>
    </p>
    
